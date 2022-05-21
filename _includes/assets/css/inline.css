@@ -174,7 +174,6 @@ button {
   padding: 1em;
   margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
 }
 
 input,
@@ -189,6 +188,8 @@ button {
 	cursor: pointer;
 }
 
+h1, h2
+font-family: "Secular One", Georgia ,Cambria ,Times New Roman ,Times,serif;
 @media screen and (min-width:768px) {
 	:root {
 		font-size: 1.1rem;
