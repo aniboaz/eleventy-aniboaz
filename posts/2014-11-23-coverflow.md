@@ -3,9 +3,6 @@ date: 2014-11-23T21:21:26+00:00
 author: Boaz Lederer
 summary: The Bad artist imitate, the great artist steal
 lang: heb
-url: /blog/2014/11/23/הכל-אודות-העתקה-בעיצוב-ואיפיון-coverflow/
-dsq_thread_id:
-  - 3255976717
 title: הכל אודות העתקה בעיצוב ואיפיון – coverflow
 tags:
   - android lollipop
@@ -21,8 +18,6 @@ tags:
 cover: https://res.cloudinary.com/aniboaz/image/upload/v1653129085/Blog/picasso-no-banksy.jpg
 type: post
 permalink: false
-categories:
-  - מאמרים
 ---
 <h2 dir="rtl" style="text-align: right;">
   אמרו את זה קודם, לפניי
