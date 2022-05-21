@@ -1,7 +1,9 @@
-<section>
+<section class="flex">
 	{% for post in postslist | reverse %}
 		<article{% if post.url == url %} data-current="current item"{% endif %}>
-			<h3><img class="cover" src="{{ post.data.cover }}">
+			<h3>
+				<div class="image-shadow js-tilt-container" style="background-image:url({{ post.data.cover }})">
+				<!--img class="cover" src="{{ post.data.cover }}"-->
 				<a href="{{ post.url | url }}">
 					{% if post.data.title %}
 						{{ post.data.title }}
@@ -33,3 +35,37 @@
 		</article>
 	{% endfor %}
 </section>
+<style scoped>
+section {
+    display: grid;
+    flex-wrap: nowrap;
+    justify-items: start;
+    align-items: start;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.image-shadow:after {
+  transform: scale(0.95) translateY(36px) translateZ(-30px);
+  filter: blur(20px);
+  opacity: 0.9;
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-image: inherit; // Neat huh!
+  background-size: cover;
+  z-index: -1;
+  transition: filter .3s ease;
+}
+
+.image-shadow {
+  margin: 20px auto;
+  width: 400px;
+  height: 200px;
+  border-radius: 10px;
+  display: block;
+  position: relative;
+  background-size: cover;
+}
+	</style>
