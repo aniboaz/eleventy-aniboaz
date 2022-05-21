@@ -10,7 +10,7 @@ categories: []
 keywords: []
 tags:
   - UX
-slug: /@aniboaz/game-of-clones-the-design-tool-battle-b183649afdd
+permalink: /game-of-clones-the-design-tool-battle
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/1*ns5nbrlR0UAP-DY7vOR_SA.jpeg)

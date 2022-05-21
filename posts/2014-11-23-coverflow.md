@@ -20,6 +20,7 @@ tags:
   - עברית
 cover: https://res.cloudinary.com/aniboaz/image/upload/v1653129085/Blog/picasso-no-banksy.jpg
 type: post
+permalink: false
 categories:
   - מאמרים
 ---

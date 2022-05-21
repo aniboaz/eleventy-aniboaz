@@ -3,7 +3,7 @@ summary: The Easy UX feedback you forgot to place in your product
 keywords: []
 title: Missing The Pointer
 author: Boaz Lederer
-slug: /@aniboaz/missing-the-pointer-1dfc5cd60c8c
+permalink: /missing-the-pointer
 date: 2017-06-28T10:46:04.636Z
 tags:
   - UX

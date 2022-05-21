@@ -12,6 +12,7 @@ tags:
 - design
 slug: /@aniboaz/animate-svg-4fa7dd00e860
 cover: https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/animate-svg.jpg
+permalink: false
 ---
 So you want to create animated icons for your site?
 
