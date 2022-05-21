@@ -105,10 +105,8 @@ permalink: applefail.html
       Apple&#8217;s magic mouse is a wireless blutooth mouse. The mouse users were surprised to find out that charging the mouse demanded flipping the mouse &#8220;on its back&#8221; making it useless, while you charge.<br /> this is a case of poorely designed product, that resaults in poor UX.<br /> While were at it, It&#8217;s a good time to note the mouse is totally symmetrical, which isnt just bad argonomicly, but create a problem of &#8220;loosing your north&#8221; while using it.<br /> after &#8220;outrage&#8221;- apple responded by explaining it charges fast.
     </p>
     
-    <p>
-      <img src="https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/M/LA/MLA02/MLA02_AV2?wid=1144&#038;hei=1144&#038;fmt=jpeg&#038;qlt=80&#038;op_sharpen=0&#038;resMode=bicub&#038;op_usm=0.5%2C0.5%2C0%2C0&#038;iccEmbed=0&#038;layer=comp&#038;.v=QC4lx0" />
-    </p>
-    
+  
+
     <h4>
       How they got away with it: magical experience!
     </h4>
