@@ -4,7 +4,7 @@ author: Boaz Lederer
 type: post
 date: 2014-11-23T21:21:26+00:00
 url: /blog/2014/11/23/הכל-אודות-העתקה-בעיצוב-ואיפיון-coverflow/
-featured_image: /wp-content/uploads/2014/11/picasso-no-banksy.gif
+cover: https://res.cloudinary.com/aniboaz/image/upload/v1653129085/Blog/picasso-no-banksy.jpg
 dsq_thread_id:
   - 3255976717
 categories:
