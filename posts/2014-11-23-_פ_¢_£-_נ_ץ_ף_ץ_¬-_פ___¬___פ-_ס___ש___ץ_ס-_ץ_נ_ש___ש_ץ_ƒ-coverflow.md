@@ -1,14 +1,12 @@
 ---
-title: הכל אודות העתקה בעיצוב ואיפיון – coverflow
-author: Boaz Lederer
-type: post
 date: 2014-11-23T21:21:26+00:00
+author: Boaz Lederer
+summary: The Bad artist imitate, the great artist steal
+lang: heb
 url: /blog/2014/11/23/הכל-אודות-העתקה-בעיצוב-ואיפיון-coverflow/
-cover: https://res.cloudinary.com/aniboaz/image/upload/v1653129085/Blog/picasso-no-banksy.jpg
 dsq_thread_id:
   - 3255976717
-categories:
-  - מאמרים
+title: הכל אודות העתקה בעיצוב ואיפיון – coverflow
 tags:
   - android lollipop
   - apple
@@ -20,14 +18,16 @@ tags:
   - Ux
   - אפיון ממשק משתמש
   - עברית
-lang: heb
+cover: https://res.cloudinary.com/aniboaz/image/upload/v1653129085/Blog/picasso-no-banksy.jpg
+type: post
+categories:
+  - מאמרים
 ---
 <h2 dir="rtl" style="text-align: right;">
   אמרו את זה קודם, לפניי
 </h2>
 
-<div id="attachment_67" style="width: 330px" class="wp-caption alignright">
-  <a href="http://www.aniboaz.co.il/Blog/wp-content/uploads/2014/11/picasso-no-banksy.gif"><img class="wp-image-67 size-thumbnail" title="&quot;The Bad artist imitate, the great artist steal&quot; Banksy" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2014/11/picasso-no-banksy-320x320.gif" alt="&quot;The Bad artist imitate, the great artist steal&quot; Banksy" width="320" height="320" /></a>
+![The Bad artist imitate, the great artist steal](https://res.cloudinary.com/aniboaz/image/upload/q_auto/Blog/browsing-records-at-origami-vinyl-los-angeles.jpg)
 
   <p class="wp-caption-text">
     בנקסי בפרפרזה למשפט המפורסם של פיקסו :&#8221;האמן הרע מחקה, האמן הדגול &#8211; גונב.&#8221;
@@ -50,16 +50,20 @@ lang: heb
   איך לקחת השראה ולהבין אפיון מבלי לגנוב אותו?
 </address>
 
-<p dir="rtl" style="text-align: right;">
+
   כדי לענות על השאלה, צריך להבין מדוע הנושא הזה בעיייתי ולשם כך נבחן את <strong>ניהול המשימות במובייל</strong> ודרכי ביצועיה השונות.
-</p>
+
 
 <address dir="rtl" style="text-align: right;">
   בשלב זה אני אציג משימה בפניכם: נסו לספור כמה רעיונות, איפיונים או עיצובים &#8220;גנבו&#8221; החברות השונות זו מזו.
 </address>
 
-<p dir="rtl" style="text-align: right;">
-   בראשית היה חלונות וחושך על פני תהום. ומה שהיום אנשים תופסים כדי מובן מאליו היה נחשב בשנות התשעים לסוג של מהפכה. עם הופעת ריבוי המשימות בממשק הגרפי אנשים רצו למצוא דרך לעבור בין המשימות בנוחות רבה יותר. <img class="alignleft wp-image-79 size-medium" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2014/11/t01120001114kac10_01-300x136.gif" alt="t01120001114kac10_01" width="300" height="136" />הפתרון שהועלה היה תפריט ניווט שנפתח על ידי המקלדת (alt-tab) ובו מוצגים רק האייקונים של המשימות השונות ועל ידי דפדוף בינהם היה ניתן לעבור בין המשימות השונות. חשוב להבין שמדובר במקרה שימוש של משתמשים מנוסים. רוב האנשים הסתפקו ב&#8221;שורת המשימות&#8221;(task bar) שהלך וגדל עם השנים.
+
+   בראשית היה חלונות וחושך על פני תהום. ומה שהיום אנשים תופסים כדי מובן מאליו היה נחשב בשנות התשעים לסוג של מהפכה. עם הופעת ריבוי המשימות בממשק הגרפי אנשים רצו למצוא דרך לעבור בין המשימות בנוחות רבה יותר.
+
+![](https://res.cloudinary.com/aniboaz/image/upload/v1605297210/Blog/6bf56dc1-316c-464a-849d-8aa79bdfbeb1_14.png)
+
+הפתרון שהועלה היה תפריט ניווט שנפתח על ידי המקלדת (alt-tab) ובו מוצגים רק האייקונים של המשימות השונות ועל ידי דפדוף בינהם היה ניתן לעבור בין המשימות השונות. חשוב להבין שמדובר במקרה שימוש של משתמשים מנוסים. רוב האנשים הסתפקו ב&#8221;שורת המשימות&#8221;(task bar) שהלך וגדל עם השנים.
 </p>
 
 <p dir="rtl" style="text-align: right;">
@@ -74,13 +78,7 @@ lang: heb
    הנדלן במסכי המובייל קטן משמעותית  גם אם יש מגמת גדילה -עד שלא ימצאו פתרון הקרנה אחר כרגע אנשים בוהים במסכים בגודל של כמה סנטימטרים בלבד. בנסיון הראשון לפתור את בעיית ניהול המשימות במובייל ניסו לפתור את הבעיה בממשק דומה לזה של חלונות.
 </p>
 
-<div id="attachment_278" style="width: 210px" class="wp-caption alignleft">
-  <a href="http://www.aniboaz.co.il/Blog/wp-content/uploads/2014/11/IMG_0705.jpg"><img class="size-medium wp-image-278" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2014/11/IMG_0705-200x300.jpg" alt="מעבר בין משימות בios 4" width="200" height="300" /></a>
-
-  <p class="wp-caption-text">
-    מעבר בין משימות בios 4
-  </p>
-</div>
+![מעבר בין משימות בios 4](https://res.cloudinary.com/aniboaz/image/upload/v1605297310/Blog/ios-7-multitasking-100042371-medium.png)
 
 <p dir="rtl" style="text-align: right;">
    האייקונים, באופן כללי שלטו בממשקים הראשונים של האייפון. ( אפשר לומר שכל הממשק התבסס על החוויה של האייקונים כמערכת מסחרית של האפסטור.  בניגוד לשיטת הדפדפן  שבה האתרים או מנועי החיפוש הם השער אל השירותים השונים). אבל הצורך במעבר בין המשימות הגיע רק בעקבות היכולת המשופרת של המכשירים להריץ במקביל כמה אפליקציות.
@@ -90,8 +88,9 @@ lang: heb
   הניסיון הראשון של אפל למעבר בין אפליקציות שונות מזכיר מאד את הtsakbar של חלונות, ולמעשה נתן יכולת מוגבלת וניתן לומר שהיה די כשלון בזמנו.
 </p>
 
-<p dir="rtl" style="text-align: right;">
-  <img class="alignright wp-image-95 size-medium" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2014/11/6bf56dc1-316c-464a-849d-8aa79bdfbeb1_141-300x94.png" alt="בחירה מרובה בין חלונות" width="300" height="94" />תצוגת אייקונים זה דבר נחמד כי זה חוסך מקום וזה מאד עוזר למותגים. אבל המשתמשים לא יכולים לעשות עם זה יותר מדי &#8211; מכיוון שבדרך כלל הם לא מקבלים מכך מספיק מידע על המשימות השונות. הדבר נכון עוד יותר במקרה שלמספר חלונות של אותו יישום, כמו במקרה של לשוניות בדפדפן לדוגמא.  במיקרוסופט הבינו שתצוגת אייקונים לא מספרת מספיק על המשימות השונות והוסיפו thumbanil של תצוגה מקדימה של החלונות בתפריט הalt-tab, כמו גם בעת הצבעה על שורת המשימות. שימו לב שהשימוש באייקונים עדיין קיים כיוון שהוא עוזר לזהות במידה מסויימת את היישומים, אך שחשיבותו קטנה.
+![](https://res.cloudinary.com/aniboaz/image/upload/v1605298001/Blog/IMG_0705.jpg)
+
+תצוגת אייקונים זה דבר נחמד כי זה חוסך מקום וזה מאד עוזר למותגים. אבל המשתמשים לא יכולים לעשות עם זה יותר מדי &#8211; מכיוון שבדרך כלל הם לא מקבלים מכך מספיק מידע על המשימות השונות. הדבר נכון עוד יותר במקרה שלמספר חלונות של אותו יישום, כמו במקרה של לשוניות בדפדפן לדוגמא.  במיקרוסופט הבינו שתצוגת אייקונים לא מספרת מספיק על המשימות השונות והוסיפו thumbanil של תצוגה מקדימה של החלונות בתפריט הalt-tab, כמו גם בעת הצבעה על שורת המשימות. שימו לב שהשימוש באייקונים עדיין קיים כיוון שהוא עוזר לזהות במידה מסויימת את היישומים, אך שחשיבותו קטנה.
 </p>
 
 <div id="attachment_285" style="width: 170px" class="wp-caption alignright">
@@ -111,11 +110,14 @@ lang: heb
 </p>
 
 <p dir="rtl" style="text-align: right;">
-  <img class="alignleft wp-image-68 size-thumbnail" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2014/11/multitasking_andrkitkat-320x320.jpg" alt="multitasking_andrkitkat" width="320" height="320" />זמן לא רב לאחר מכן, ובתהליך שניתן להגדיר כטרנד מטורף. אנדרואיד הציגו ממשק ניהול משימות שונה לחלוטין במכשירים שלהם. כלומר, אותו דבר רק במאונך. אפשר לשים לב שדווקא ממשק זה מציג מידע בצורה יותר טובה כי כאן יש לנו גם את <strong>שם האפליקציה</strong>. חידוש.
+ 
+
+![android multitask](https://res.cloudinary.com/aniboaz/image/upload/v1605298023/Blog/multitasking_andrkitkat.jpg)
+
+זמן לא רב לאחר מכן, ובתהליך שניתן להגדיר כטרנד מטורף. אנדרואיד הציגו ממשק ניהול משימות שונה לחלוטין במכשירים שלהם. כלומר, אותו דבר רק במאונך. אפשר לשים לב שדווקא ממשק זה מציג מידע בצורה יותר טובה כי כאן יש לנו גם את <strong>שם האפליקציה</strong>. חידוש.
 </p>
 
-<div id="attachment_229" style="width: 330px" class="wp-caption alignright">
-  <a href="http://www.aniboaz.co.il/Blog/wp-content/uploads/2014/11/ios.jpg"><img class="wp-image-229 size-thumbnail" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2014/11/ios-320x320.jpg" alt="safari multitasking" width="320" height="320" /></a>
+![safari multitasking](https://res.cloudinary.com/aniboaz/image/upload/v1605298005/Blog/ios.jpg)
 
   <p class="wp-caption-text">
     safari multitasking
@@ -126,18 +128,22 @@ lang: heb
   אבל &#8211; שימו לב, באותו הזמן, דפדפן הספארי, רבוי הלשוניות חידש עצמו בממשק שמציג גישה <strong>אחרת</strong> לניהול המשימות. הספרי הציג ממשק של כרטיסיות בצורה תלת מימדית. מה שידוע בשם coverflow.
 </p>
 
-&nbsp;
 
-* * *
 
-&nbsp;
+- - -
+
+
 
 <h2 dir="rtl" style="text-align: right;">
   פשפוש בין משימות
 </h2>
 
 <p dir="rtl" style="text-align: right;">
-  <img class="alignright wp-image-65 size-thumbnail" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2014/11/browsing-records-at-origami-vinyl-los-angeles-320x320.jpg" alt="browsing-records-at-origami-vinyl-los-angeles" width="320" height="320" />כשאפל תכננו את הIPHONE הסטנדרט בנגני המוסיקה הניידים עדיין היה כפתורים פחות או יותר והממשק הגרפי היה בחיתוליו. יש לזכור גם שהipod הראשון היהעדיין בעל ממשק כפתורים וללא מסך מגע. המסך שלו היה קטן מאד והדבר יצר כמה בעיות.
+
+![](https://res.cloudinary.com/aniboaz/image/upload/v1605298020/Blog/browsing-records-at-origami-vinyl-los-angeles.jpg)
+
+
+כשאפל תכננו את הIPHONE הסטנדרט בנגני המוסיקה הניידים עדיין היה כפתורים פחות או יותר והממשק הגרפי היה בחיתוליו. יש לזכור גם שהipod הראשון היהעדיין בעל ממשק כפתורים וללא מסך מגע. המסך שלו היה קטן מאד והדבר יצר כמה בעיות.
 </p>
 
 <div id="attachment_66" style="width: 560px" class="wp-caption alignleft">
