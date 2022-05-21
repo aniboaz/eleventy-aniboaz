@@ -14,6 +14,7 @@ tags:
 cover: "https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/1_4noX9EnK03pMUYDeYmyXqQ.jpg"
 description: Every couple of years a new game takes over and top the charts, so
   why am I excited about Pokemon Go? what can we learn from it?
+  permalink: pokemongo
 ---
 
 ![this is what gamers look like](https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/1_4noX9EnK03pMUYDeYmyXqQ.jpg)

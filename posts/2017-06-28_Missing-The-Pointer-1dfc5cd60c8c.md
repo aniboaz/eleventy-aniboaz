@@ -10,6 +10,7 @@ tags:
 categories: []
 cover: https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/missing-the-pointer.jpg
 description: The Easy UX feedback you forgot to place in your product
+permalink: missingthepointer
 ---
 ![missing the pointer](https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/missing-the-pointer.jpg)
 

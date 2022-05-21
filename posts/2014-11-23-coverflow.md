@@ -17,7 +17,7 @@ tags:
   - עברית
 cover: https://res.cloudinary.com/aniboaz/image/upload/v1653129085/Blog/picasso-no-banksy.jpg
 type: post
-
+permalink: coverflow
 ---
 <h2 dir="rtl" style="text-align: right;">
   אמרו את זה קודם, לפניי

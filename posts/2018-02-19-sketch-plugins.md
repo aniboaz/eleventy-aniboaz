@@ -22,7 +22,7 @@ tags:
   - עיצוב
   - עיצוב ממשק משתמש
   - פלאגינים
-
+permalink: sketch-plugins
 ---
 <p dir="rtl">
   שגיא היה <a href="https://www.pixelperfect.co.il/tutorials/how-i-moved-to-sketch/">הראשון לזהות</a> את סקצ&#8217; כדבר הבא בתחום העיצוב לUI, ווב ולדיגיטל.
