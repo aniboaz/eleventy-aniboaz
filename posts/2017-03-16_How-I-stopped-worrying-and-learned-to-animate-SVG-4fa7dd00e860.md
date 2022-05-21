@@ -1,10 +1,15 @@
 ---
 title: How I stopped worrying and learned to animate SVG
 author: Boaz Lederer
-description: So you want to create animated icons for your site?
+metaDescription: So you want to create animated icons for your site?
+summary: So you want to create animated icons for your site?
 date: '2017-03-16T06:32:00.543Z'
 categories: ["code"]
-keywords: ["Tag:SVG","Tag:CSS","Tag:Design"]
+tags: 
+- animation
+- SVG
+- CSS
+- design
 slug: /@aniboaz/animate-svg-4fa7dd00e860
 cover: https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/animate-svg.jpg
 ---
