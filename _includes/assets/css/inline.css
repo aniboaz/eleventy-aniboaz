@@ -211,7 +211,7 @@ button {
 }
 
 h1, h2
-font-family: "Secular One", Georgia ,Cambria ,Times New Roman ,Times,serif;
+font-family: "Secular One", serif;
 @media screen and (min-width:768px) {
 	:root {
 		font-size: 1.1rem;
