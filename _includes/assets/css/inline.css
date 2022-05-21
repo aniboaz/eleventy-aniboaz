@@ -218,3 +218,5 @@ h1, h2{font-family: "Secular One", serif;}
 		font-size: 1.1rem;
 	}
 }
+
+.flex{display:flex;flex-wrap: nowrap;}
