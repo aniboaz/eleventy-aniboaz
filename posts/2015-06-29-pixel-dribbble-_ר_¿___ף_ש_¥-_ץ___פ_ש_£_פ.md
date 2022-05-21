@@ -4,7 +4,7 @@ author: Boaz Lederer
 type: post
 date: 2015-06-29T19:46:43+00:00
 url: /blog/2015/06/29/pixel-dribbble-טרנדים-וקהילה/
-featured_image: /wp-content/uploads/2015/05/pixel-dribbble02.jpg
+cover: https://res.cloudinary.com/aniboaz/image/upload/f_auto/Blog/pixel-dribbble02.jpg
 dsq_thread_id:
   - 4485474146
 categories:
@@ -102,7 +102,7 @@ lang: heb
 </p>
 
 <div style="width: 1930px" class="wp-caption alignright">
-  <img src="http://www.uxsalon.com/wp-content/uploads/2015/03/15858250476_1611593fd0_k-1920x1440.jpg" alt="" width="1920" height="1440" />
+  <img src="https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto,w_800/Blog/15858250476_1611593fd0_k-1920x1440.jpg" alt="" width="1920" height="1440" />
 
   <p class="wp-caption-text">
     ux salon בדיון לאחר הרצאה

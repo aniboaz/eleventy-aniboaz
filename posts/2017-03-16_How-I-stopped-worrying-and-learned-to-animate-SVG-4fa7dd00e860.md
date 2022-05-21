@@ -13,14 +13,11 @@ tags:
 slug: /@aniboaz/animate-svg-4fa7dd00e860
 cover: https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/animate-svg.jpg
 ---
-
-![](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/2560/1*XcpTycdmawe56y0OMnLkHw.jpeg)
-
 So you want to create animated icons for your site?
 
 after illustrating some icons for my personal site, I had the notion of animating them. icons should be relatively small part of the site, so lets make a GIF.
 
-![original illustration](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/600/0*ocjqupMkx_lCPpNi.jpg)
+![original illustration](https://res.cloudinary.com/aniboaz/image/upload/q_auto/Blog/IMG_20170302_181730.jpg)
 original illustration
 
 _\- sigh -_
@@ -33,7 +30,7 @@ That was the time I started seeing that web developers who knows what their doin
 
 ### SVG’s advantages
 
-first, I’ll have to say, SVG’s arent good for everything. and as always you should ask yourself what about alternaties like [GIF or video.](https://bitsofco.de/optimising-gifs/) the first big advantage is the “scale”, using svg inline also means you can change and twik other properties on top of width or height. (more on that coming up…) Another advantage is creating an svg and coding it means less HTTP requests which usually means your page performs better. but why should I handle [messy code, Im a designer!](https://medium.com/search?q=should%20designers%20code&ref=opensearch)
+first, I’ll have to say, SVG’s arent good for everything. and as always you should ask yourself what about alternaties like [GIF or video.](https://bitsofco.de/optimising-gifs/) the first big advantage is the “scale”, using svg inline also means you can change and twik other properties on top of width or height. (more on that coming up…) Another advantage is creating an svg and coding it means less HTTP requests which usually means your page performs better. but why should I handle [messy code, Im a designer!](https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/Screenshot_2.jpg)
 
 ### The shortcut — [Bodymovin](https://www.behance.net/gallery/27390219/BODYMOVIN)’
 
