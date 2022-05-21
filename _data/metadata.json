@@ -1,5 +1,6 @@
 {
   "title": "Boaz's site",
   "description": "A template for building a simple blog website with the Eleventy static site generator, Netlify CMS, and with deployment to Netlify.",
-  "url": "https://eleventy-netlify-boilerplate.netlify.app"
+  "url": "https://eleventy-netlify-boilerplate.netlify.app",
+  "image": "https://res.cloudinary.com/aniboaz/image/upload/w_240,dpr_auto,q_auto/bgb.png"
 }
