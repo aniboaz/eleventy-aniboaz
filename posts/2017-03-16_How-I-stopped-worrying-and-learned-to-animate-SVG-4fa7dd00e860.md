@@ -9,13 +9,13 @@ slug: /@aniboaz/animate-svg-4fa7dd00e860
 cover: https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/animate-svg.jpg
 ---
 
-![](https://cdn-images-1.medium.com/max/2560/1*XcpTycdmawe56y0OMnLkHw.jpeg)
+![](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/2560/1*XcpTycdmawe56y0OMnLkHw.jpeg)
 
 So you want to create animated icons for your site?
 
 after illustrating some icons for my personal site, I had the notion of animating them. icons should be relatively small part of the site, so lets make a GIF.
 
-![original illustration](https://cdn-images-1.medium.com/max/600/0*ocjqupMkx_lCPpNi.jpg)
+![original illustration](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/600/0*ocjqupMkx_lCPpNi.jpg)
 original illustration
 
 _\- sigh -_
@@ -37,7 +37,7 @@ It was roughly the same time that Airbnb Design announced [Lottie](http://airbnb
 
 However, Is this the best method for what I need? and whats all this in the json file?
 
-![Bodymovin **scary** code output](https://cdn-images-1.medium.com/max/800/0*sUbxRG00yMakJVmG.jpg)
+![Bodymovin **scary** code output](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/800/0*sUbxRG00yMakJVmG.jpg)
 Bodymovin **scary** code output
 
 It made me realize this solution (with its [limited](https://github.com/bodymovin/bodymovin/wiki/) support) Is not right for me. this massive code and Js add-on is exactly what I wanted to avoid.
@@ -50,7 +50,7 @@ So lets try to see more about animating svg without opening any animation progra
 
 > the biggest best guide to anything SVG is [Here](https://svgontheweb.com/)
 
-![vector illustration made with (surprise) illustrator](https://cdn-images-1.medium.com/max/800/0*YT1cfvZdiL1ppZF8.png)
+![vector illustration made with (surprise) illustrator](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/800/0*YT1cfvZdiL1ppZF8.png)
 vector illustration made with (surprise) illustrator
 
 ### What’s SVG anyway?
@@ -102,7 +102,7 @@ Here we have 3 keyframes playing looped. The first and last has the object regul
 
 This is css animation in a nutshell. Its not just easy to understand, its also very recognizable to any animator, just draw it in a timeline.
 
-![here’s [chrome developer timeline](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/animations) that is very nice to use with web timing and animation:](https://cdn-images-1.medium.com/max/800/0*Gxr58bE3aeqVyQQm.jpg)
+![here’s [chrome developer timeline](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/animations) that is very nice to use with web timing and animation:](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/800/0*Gxr58bE3aeqVyQQm.jpg)
 here’s [chrome developer timeline](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/animations) that is very nice to use with web timing and animation:
 
 The use of % also means that changing _animation duration_ wont harm the animation from happening so we can play around with that, or even use same animation with different timing on two separate objects.

@@ -7,7 +7,7 @@ keywords: []
 slug: /@aniboaz/missing-the-pointer-1dfc5cd60c8c
 ---
 
-![](https://cdn-images-1.medium.com/max/2560/1*lO4QmBGGCB04Xyd4ENBPfg.gif)
+![](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/2560/1*lO4QmBGGCB04Xyd4ENBPfg.gif)
 
 ### The Easy UX feedback you forgot to place in your product
 
@@ -38,7 +38,7 @@ a gaming cursor example
 
 In general my opinion is the gaming industry pioneered many of the principles we see today.(games always push the limits of interaction) the use of gaming avatars, cursors or location signs is no different. this is because one of the most important principles the game idustry use is the “[alter self”](https://en.wikipedia.org/wiki/Mirror_stage) representation. not just **avatars** or fictional characters but a fantasy world where you **are** _driving that car, you can be_ [_everything_](https://youtu.be/JYHp8LwBUzo). In order to allow this experience for the user, the ui in gaming has to be very helpful and very **s**[**patial aware**.](https://medium.com/elepath-exports/spatial-interfaces-886bccc5d1e9)
 
-![microsoft uses light as a key locator in their fluent design (hololens)](https://cdn-images-1.medium.com/max/600/0*2n66INz8EB_rHDAI.gif)
+![microsoft uses light as a key locator in their fluent design (hololens)](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/600/0*2n66INz8EB_rHDAI.gif)
 microsoft uses light as a key locator in their fluent design (hololens)
 
 Besides the large use of skeomorfizm and other unique styles, lots of games ui also has to do with players physical location or cursor. This is most dominant in first person shooters for obvious reasons, the main contoroller. Acting as the weapon. This concept is also shared with VR since it’s very important for users to have a sense of presence as part of the ground rules.
@@ -47,7 +47,7 @@ _here’s an example of how much orientation is important in VR :)_
 
 Google’s [daydream guidelines](https://developers.google.com/vr/distribute/daydream/design-requirements) stress the advantages of rendering the “controller” and drawing a laser guide to help the user
 
-![](https://cdn-images-1.medium.com/max/600/0*8mv4BcOv7VUr7CDn.png)
+![](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/600/0*8mv4BcOv7VUr7CDn.png)
 
 > The benefits of the laser are:
 
@@ -65,7 +65,7 @@ This is the tip of the iceberg, alot of UX _spatial_ principals like [Fitt’s l
 
 another interesting use case similar with gaming is **shared interaction** when co-working on the same screen. screen sharing and online games or chats have a very important base of “who’s doing what when”. Products like google drive, or Figma use the cursor to manifest the users “presence” in the shared document or canvas.
 
-![Figma’s Sean VS. Hana working on a horribly colored train app](https://cdn-images-1.medium.com/max/800/1*8POB0OS9nK3kOurW1M8hvQ.gif)
+![Figma’s Sean VS. Hana working on a horribly colored train app](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/800/1*8POB0OS9nK3kOurW1M8hvQ.gif)
 Figma’s Sean VS. Hana working on a horribly colored train app
 
 If you think AR or voice interaction dont need all this fuzz, Think of the most dominant professional tools — now think how much of these are using touchscreens. odds are that the transition to complex tools with direct manipulation are still a long time coming.
@@ -80,7 +80,7 @@ When typing in mobile notice where your gaze is. I found myself typing and looki
 
 Feedback was used commonly with cursor it had to be replaced in touchscreens Hourglass turned to spinners and progress bars.
 
-![material design interactions provide feedback after or during action.](https://cdn-images-1.medium.com/max/600/0*B-mqly8so87_9dM7.)
+![material design interactions provide feedback after or during action.](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/600/0*B-mqly8so87_9dM7.)
 material design interactions provide feedback after or during action.
 
 Another issue is the indication **After the interaction.** [Material](https://material.io/guidelines/motion/choreography.html#choreography-radial-reaction)’s radial reaction for example, uses pulse to answer what we know in reality as **Newton’s third law**
@@ -104,4 +104,4 @@ _CSS can control the appearance of a cursor. There are a ton of options availabl
 
 _Also published in hebrew at_ [_my blog_](http://www.aniboaz.co.il/Blog/blog/2017/06/27/pointer/)
 
-![](https://cdn-images-1.medium.com/max/800/1*aNPBhln7iDMY8qRcmoyCfA.jpeg)
+![](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/800/1*aNPBhln7iDMY8qRcmoyCfA.jpeg)
