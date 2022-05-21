@@ -2,7 +2,7 @@
 title: לעצב פשוט זה לא כל כך קל
 author: Boaz Lederer
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2016-09-27T16:21:49+00:00
 draft: true
 url: /?p=1638
 categories:
