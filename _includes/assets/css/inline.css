@@ -1,7 +1,26 @@
 :root {
 	--primary: orangered;
 	--secondary: ghostwhite;
-	--background: white;
+	--background: fff3ce;
+}
+.theme-light {
+    --bg-background-primary: #fff3ce;
+    --bg-background-secondary: #ffc570;
+    --bg-background-tertiary: #ffd39c;
+    --bg-background-form: #fff;
+    --text-copy-primary: #3d00ff;
+    --text-copy-secondary: #2b1d58;
+    --border-border-color-primary: #ff7600
+}
+
+.dark-orange {
+    --bg-background-primary: #f52;
+    --bg-background-secondary: #fc953c;
+    --bg-background-tertiary: #ffac93;
+    --bg-background-form: #fff;
+    --text-copy-primary: #4c0066;
+    --text-copy-secondary: #000;
+    --border-border-color-primary: #1a202c
 }
 
 *, *:before, *:after {
