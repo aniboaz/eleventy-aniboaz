@@ -1,7 +1,7 @@
 ---
 title: 'Game Of Clones: The design tool battle'
 author: Boaz Lederer
-description: >-
+description:
   I wrote a while back about the prototyping wars. now that 2017 is coming to an
   end, there is a continuing boom of products for designing…
 date: '2017-12-27T20:46:02.411Z'
@@ -10,7 +10,7 @@ categories: []
 keywords: []
 tags:
   - UX
-permalink: /game-of-clones-the-design-tool-battle
+permalink: game-of-clones-the-design-tool-battle
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/1*ns5nbrlR0UAP-DY7vOR_SA.jpeg)
