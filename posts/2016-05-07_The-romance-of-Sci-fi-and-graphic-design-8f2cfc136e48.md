@@ -7,6 +7,7 @@ date: '2016-05-07T16:28:18.000Z'
 cover: https://res.cloudinary.com/aniboaz/image/upload/c_fill,g_south,h_400,w_400/v1653130582/Blog/0_N3eA2xRKepIS4oiC.jpg
 categories: []
 keywords: []
+author: Boaz Lederer
 slug: /@aniboaz/the-romance-of-sci-fi-and-graphic-design-8f2cfc136e48
 ---
 

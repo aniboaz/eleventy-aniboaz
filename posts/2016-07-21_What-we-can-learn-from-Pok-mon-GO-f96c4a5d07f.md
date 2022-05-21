@@ -7,12 +7,16 @@ author: Boaz Lederer
 slug: /@aniboaz/what-we-can-learn-from-pokemon-go-f96c4a5d07f
 date: 2016-07-21T21:34:56.121Z
 categories: []
-cover: "https://cdn-images-1.medium.com/max/600/1*4noX9EnK03pMUYDeYmyXqQ.jpeg"
+tags:
+  - UX
+  - games
+  - pokemon
+cover: "https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/1_4noX9EnK03pMUYDeYmyXqQ.jpg"
 description: Every couple of years a new game takes over and top the charts, so
   why am I excited about Pokemon Go? what can we learn from it?
 ---
 
-![this is what gamers look like](https://cdn-images-1.medium.com/max/600/1*4noX9EnK03pMUYDeYmyXqQ.jpeg)
+![this is what gamers look like](https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/1_4noX9EnK03pMUYDeYmyXqQ.jpg)
 this is what gamers look like
 
 Every couple of years a new game takes over and top the charts, so why am I excited about Pokemon Go? what can we learn from it?
