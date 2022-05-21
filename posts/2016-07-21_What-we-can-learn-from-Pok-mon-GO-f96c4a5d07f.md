@@ -7,6 +7,7 @@ author: Boaz Lederer
 slug: /@aniboaz/what-we-can-learn-from-pokemon-go-f96c4a5d07f
 date: 2016-07-21T21:34:56.121Z
 categories: []
+cover: "https://cdn-images-1.medium.com/max/600/1*4noX9EnK03pMUYDeYmyXqQ.jpeg"
 description: Every couple of years a new game takes over and top the charts, so
   why am I excited about Pokemon Go? what can we learn from it?
 ---
