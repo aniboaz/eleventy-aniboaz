@@ -12,3 +12,5 @@ eleventyNavigation:
 ## An Interactive designer
 
 # Product Designer & Animator called *Boaz.*
+
+{% include "components/form.njk" %}
