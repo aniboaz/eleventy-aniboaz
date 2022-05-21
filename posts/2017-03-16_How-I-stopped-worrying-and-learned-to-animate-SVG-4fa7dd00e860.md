@@ -10,7 +10,7 @@ tags:
 - SVG
 - CSS
 - design
-permalink:  animate-svg-how-to
+permalink:  animate-svg-how-to.html
 cover: https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/animate-svg.jpg
 ---
 So you want to create animated icons for your site?

@@ -16,7 +16,7 @@ tags:
   - עיצוב אתרים
   - עיצוב ממשק משתמש
 lang: heb
-permalink: designpattern
+permalink: designpattern.html
 ---
 <p dir="rtl">
   בזמן האחרון, שמתי לב לצמד מילים שחוזר על עצמו בכל מקום. צמד המילים שעליכם לשים לב אליו הוא &#8211; Design patterns.

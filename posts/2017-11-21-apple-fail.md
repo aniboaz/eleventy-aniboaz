@@ -7,7 +7,7 @@ draft: true
 url: /?p=1850
 categories:
   - מאמרים
-permalink: applefail
+permalink: applefail.html
 ---
 <div class="entry-content aesop-entry-content">
   <h3 class="graf graf--h3">

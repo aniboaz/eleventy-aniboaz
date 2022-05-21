@@ -18,7 +18,7 @@ tags:
   - Ux
   - איפיון ממשק
   - עיצוב ממשק משתמש
-permalink: nicetohave
+permalink: nicetohave.html
 ---
 &nbsp;
 

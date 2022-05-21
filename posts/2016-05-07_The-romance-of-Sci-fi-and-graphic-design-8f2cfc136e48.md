@@ -8,7 +8,7 @@ cover: https://res.cloudinary.com/aniboaz/image/upload/c_fill,g_south,h_400,w_40
 categories: []
 keywords: []
 author: Boaz Lederer
-permalink: scifiux
+permalink: scifiux.html
 ---
 
 I have always hated unrealistic sci-fi movies or TV shows. I hated to see lights that blinked for no reason or a CG effect that was clearly artificial. On the other hand, some films, like The Alien movies bought me off quite easily and were perceived as genuine. Even though I still was aware I’m watching a fiction movie.

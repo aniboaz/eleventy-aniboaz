@@ -7,7 +7,7 @@ draft: true
 url: /?p=1638
 categories:
   - מאמרים
-permalink: simplevseasy
+permalink: simplevseasy.html
 ---
 <div dir="rtl">
   הרצאה טובה &#8211; על ההבדל בין פשוט ל&#8221;קל&#8221;

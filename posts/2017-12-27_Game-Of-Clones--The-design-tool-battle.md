@@ -10,7 +10,7 @@ categories: []
 keywords: []
 tags:
   - UX
-permalink: game-of-clones-the-design-tool-battle
+permalink: game-of-clones-the-design-tool-battle.html
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/1*ns5nbrlR0UAP-DY7vOR_SA.jpeg)
