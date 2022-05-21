@@ -210,8 +210,8 @@ button {
 	cursor: pointer;
 }
 
-h1, h2
-font-family: "Secular One", serif;
+h1, h2{font-family: "Secular One", serif;}
+
 @media screen and (min-width:768px) {
 	:root {
 		font-size: 1.1rem;
