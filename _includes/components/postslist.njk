@@ -1,6 +1,6 @@
-<section class="flex">
+<section class="">
 	{% for post in postslist | reverse %}
-		<article{% if post.url == url %} data-current="current item"{% endif %} class="4-col">
+		<article{% if post.url == url %} data-current="current item"{% endif %} class="4col">
 			<h3><a href="{{ post.url | url }}">
 				<div class="image-shadow js-tilt-container" style="background-image:url({{ post.data.cover }})">
 				<h2 class="cardtitle">

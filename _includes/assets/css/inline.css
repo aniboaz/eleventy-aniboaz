@@ -46,7 +46,7 @@ main {
 	/* max-width: 37.5em;*/
 }
 /* 4 columns*/
-div.4-col, article.4-col{
+div.4col, article.4col{
     display: inline-block;
     max-width: 500px;
     margin: 0.2rem;
@@ -226,4 +226,5 @@ h1, h2{font-family: "Secular One", serif;}
 	}
 }
 
-.flex{display:flex;flex-wrap: nowrap;}
+/*.flex{display:flex;flex-wrap: nowrap;}
+*/
