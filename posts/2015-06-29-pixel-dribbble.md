@@ -20,11 +20,11 @@ tags:
 lang: heb
 permalink: pixeldribble.html
 ---
-<p dir="rtl">
+<p >
   <img class="alignleft" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/sites/2/2015/03/summerui05-300x200.jpg" alt="my dribbble shot" width="300" height="200" />
 </p>
 
-<p dir="rtl">
+<p >
   השנה זכיתי להשתתף לראשונה ,בארוע &#8220;<a href="http://www.pixelperfect.co.il/posts/pixel-dribbble-contest-2015-ended/">פיקסל דריבל</a>(pixel dribbble)&#8221; וזו הזדמנות לספר קצת על מה זו &#8220;קהילת המעצבים&#8221;.
 </p>
 
@@ -54,19 +54,19 @@ permalink: pixeldribble.html
   הקווים המנחים שלי, (מלבד אלו של התחרות), היו ליצור ממשק אנימטיבי, עם מרכיבים ברורים, מותאם למובייל, ובהשראת ארבעת עונות השנה.
 
 
-<p dir="rtl">
+<p >
   נשמע מעניין? &#8211;  <a href="http://www.aniboaz.co.il/Blog/work/portfolio/seasons-ui-kit/">עוד כאן</a><br /> <img class="alignleft size-medium wp-image-952" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2015/05/pixel-dribbble-744x558.jpg" alt="pixel-dribbble" width="744" height="558" srcset="http://www.aniboaz.co.il/Blog/wp-content/uploads/2015/05/pixel-dribbble-744x558.jpg 744w, http://www.aniboaz.co.il/Blog/wp-content/uploads/2015/05/pixel-dribbble-420x315.jpg 420w, http://www.aniboaz.co.il/Blog/wp-content/uploads/2015/05/pixel-dribbble-1200x900.jpg 1200w, http://www.aniboaz.co.il/Blog/wp-content/uploads/2015/05/pixel-dribbble-700x525.jpg 700w" sizes="(max-width: 744px) 100vw, 744px" />
 </p>
 
-<h2 dir="rtl">
+<h2 >
   רשימת הגזור ושמור &#8211; קהילת העיצוב
 </h2>
 
-<p dir="rtl">
+<p >
   הנה חלק מהקהילות שיש להם אתר, עמוד פייסבוק וגם (תאמינו או לא) נפגשים בעולם האמיתי ומדברים.<br /> אני אגב מדבר על קבוצות שפועלות בגוש דן, אבל מ<em>י שמכיר קבוצות אחרות שפועלות במקומות אחרים מוזמן להגיב..</em>
 </p>
 
-<h3 dir="rtl">
+<h3 >
   פיקסל פרפקט
 </h3>
 
@@ -74,21 +74,21 @@ permalink: pixeldribble.html
 
 <a href="https://www.facebook.com/pixelperfectmag/" target="_blank">פייסבוק</a>
 
-<p dir="rtl">
+<p >
   (שגיא שרייבר ) שארגנו את התחרות הם קהילה תוסבת שמתמקדת בעיצוב. האח הגוי של פיקסל &#8211; <a href="http://hackingui.com" target="_blank">hackingui</a> מארגן גם מפגשים בחו&#8217;ל.
 </p>
 
-<h3 dir="rtl">
+<h3 >
   UX on beer
 </h3>
 
 <http://uxonbeer.co.il/>
 
-<p dir="rtl">
+<p >
   <a href="http://www.netcraft.co.il" target="_blank">נטקראפט </a>מארגנים אחת לשנה בערך מפגש ux on beer, מעין פצ&#8217;ה קוצ&#8217;ה בענייני ux שאמנם בדרך כלל ניתן ללמוד בו פחות אך יש אוירה טובה ובירה. בהנחה שהגעתם מוקדם ותפסתם גם מקום
 </p>
 
-<h3 dir="rtl">
+<h3 >
   Ux salon
 </h3>
 
@@ -96,19 +96,14 @@ permalink: pixeldribble.html
 
 [פייסבוק][1]
 
-<p dir="rtl">
+<p >
   מעבר למפגש הפסגה שלהם, מארגנים מפגשים בנושאים מגוונים, שהעיקר בהם הוא הדיון בסוף כל שיחה, לעיתים אפילו הדיון טוב יותר מההרצאה שקדמה לו.
 </p>
 
-<div style="width: 1930px" class="wp-caption alignright">
-  <img src="https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto,w_800/Blog/15858250476_1611593fd0_k-1920x1440.jpg" alt="" width="1920" height="1440" />
 
-  <p class="wp-caption-text">
-    ux salon בדיון לאחר הרצאה
-  </p>
-</div>
+  <img src="https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto,w_800/Blog/15858250476_1611593fd0_k-1920x1440.jpg" alt="ux salon בדיון לאחר הרצאה"/>
 
-<h3 dir="rtl">
+<h3 >
   Uxi
 </h3>
 
@@ -116,11 +111,11 @@ permalink: pixeldribble.html
 
 [פייסבוק][2]
 
-<p dir="rtl">
+<p >
   uniqui (ברק דנין) מציגים כנסים ברמה גבוהה בנושא חוויתצ המשתמש. שהמעניין בהם הוא מבט בגובה העיניים של case studies ובמהלך השנה האחרונה היו מבחינתי המפגשים הכי שווים בתחום.
 </p>
 
-<p dir="rtl">
+<p >
   בקבוצת הפייסבוק גם תמצאו פנינים ושאלות שיש עליהן בהחלט תשובות מהשטח.
 </p>
 
