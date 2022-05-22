@@ -52,6 +52,9 @@ div.four-col, article.four-col{
     margin: 0.2rem;
     vertical-align: top;
 }
+.two-col{display: inline-block;
+    max-width: 49%;
+    margin: 0.2rem;}
 p{max-width: 37.5em;}
 p,
 pre,
