@@ -3,6 +3,7 @@ layout: layouts/base.njk
 section: post
 ---
 {% include "components/hero.njk" %}
+<section class="article">
 <article>
   <!--img class="cover" src="{{ cover }}"><h1>{{ title }}</h1--> 
   <p>
@@ -25,7 +26,15 @@ section: post
   {% endif %}
 
 </article>
-
+</section>
 <nav>
   <a href="{{ '/blog/' | url }}">← Blog index</a>
 </nav>
+<style scoped>.article{
+background-color: var(--background);
+    /* display: grid; */
+    margin-top: 16rem;
+    /* position: relative; */
+    backdrop-filter: blur(10px);
+    }
+  </style>
