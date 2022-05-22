@@ -46,9 +46,7 @@ main {
 	/* max-width: 37.5em;*/
 }
 /* 4 columns*/
-.4-col{
-    /* display: flex; */
-    /* flex-wrap: nowrap; */
+div.4-col, article.4-col{
     display: inline-block;
     max-width: 500px;
     margin: 0.2rem;

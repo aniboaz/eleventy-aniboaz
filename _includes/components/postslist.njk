@@ -1,15 +1,16 @@
 <section class="flex">
 	{% for post in postslist | reverse %}
 		<article{% if post.url == url %} data-current="current item"{% endif %} class="4-col">
-			<h3>
+			<h3><a href="{{ post.url | url }}">
 				<div class="image-shadow js-tilt-container" style="background-image:url({{ post.data.cover }})">
-				<!--img class="cover" src="{{ post.data.cover }}"-->
-				<a href="{{ post.url | url }}">
+				<h2 class="cardtitle">
+				
 					{% if post.data.title %}
 						{{ post.data.title }}
 					{% else %}
 						Untitled
 					{% endif %}
+					</h2>
 				</a>
 			</h3>
 			{% if post.data.summary %}
@@ -54,19 +55,19 @@ section {
   z-index: -1;
   transition: filter .3s ease;
 }*/
+.image-shadow, .image-shadow::hover, .image-shadow::before{border-radius:12px}  
 .image-shadow:hover{  transform: scale(1.25)}
 .image-shadow {
 	    background: var(--secondary);
   margin: 20px auto;
-  width: 400px;
+  width: 560px;
   height: 200px;
-  border-radius: 10px;
   display: block;
   position: relative;
   background-size: cover;
 }
 .image-shadow::before {
-  background-color: rgb(240, 14, 46);
+  background-color: var(--primary);
   content: '';
   display: block;
   width: 100%;
@@ -78,7 +79,7 @@ section {
 }
 
 .image-shadow::after {
-  background-color: rgb(25, 37, 80);
+  background-color: var(--text-copy-primary);
   content: '';
   display: block;
   width: 100%;
@@ -90,7 +91,7 @@ section {
 }
 
 /* card title*/
-article div a[href]:visited, article div a[href] {
+h2.cardtitle {
     position: relative;
     top: 20px;
     left: 20px;
