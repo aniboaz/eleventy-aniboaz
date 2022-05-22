@@ -2,10 +2,9 @@
 layout: layouts/base.njk
 section: post
 ---
-
+{% include "components/hero.njk" %}
 <article>
-  <img class="cover" src="{{ cover }}">
-  <h1>{{ title }}</h1> 
+  <!--img class="cover" src="{{ cover }}"><h1>{{ title }}</h1--> 
   <p>
     <small>
       <time datetime="{{ page.date | machineDate }}">{{ page.date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a>

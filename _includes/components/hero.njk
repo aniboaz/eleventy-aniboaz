@@ -1,0 +1,28 @@
+<section class="hero" style="background-image:url({{ cover }})">
+<div class="content">
+		<h1>{{ title }}</h1> 
+	</div>
+</section>
+  
+<style scoped>
+.hero {
+	display: grid;
+	max-height:100vh;
+}
+/* 'hero' grid-area */
+ .hero{background: var(--secondary)
+background-position:cover;}
+
+.content {
+	color: #fff;
+	text-align: center;
+	padding: 0;
+	background:rgba(0,0,0,0.2)
+}
+/* responsive */
+.content h1 {
+	place-self: center;
+	font-size: clamp(2rem, 10vw, 5rem);
+	text-align: center;
+}
+    </style>
