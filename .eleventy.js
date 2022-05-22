@@ -81,6 +81,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/css/inline.css");
 
+  const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+
+  module.exports = function(eleventyConfig) {
+    eleventyConfig.addPlugin(syntaxHighlight);
+  };
+
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
