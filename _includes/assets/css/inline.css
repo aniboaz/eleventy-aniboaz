@@ -61,7 +61,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--primary);
+	color: var(--text-copy-primary);
 }
 
 a[href]:not(:hover) {
@@ -172,9 +172,9 @@ a[rel="tag"]:visited {
   padding: 0 .5em;
 	line-height: 2em;
 	height: 2em;
-  border: 1px solid var(--secondary);
-	background-color: var(--secondary);
-	color: var(--primary);
+	border: 1px solid var(--text-copy-primary);
+    background-color: var(--text-copy-primary);
+    color: var(--background);
   border-radius: .25em;
   text-decoration: none;
 	margin: 0 .5em .5em 0;
