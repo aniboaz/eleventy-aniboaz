@@ -11,7 +11,7 @@
     --bg-background-form: #fff;
     --text-copy-primary: #3d00ff;
     --text-copy-secondary: #2b1d58;
-    --border-border-color-primary: #ff7600
+    --border-border-color-primary: #ff7600;
 }
 
 .dark-orange {
@@ -21,7 +21,7 @@
     --bg-background-form: #fff;
     --text-copy-primary: #4c0066;
     --text-copy-secondary: #000;
-    --border-border-color-primary: #1a202c
+    --border-border-color-primary: #1a202c;
 }
 
 *, *:before, *:after {
@@ -77,6 +77,9 @@ header,
 main,
 footer {
 	padding: 1em;
+}
+header {
+    backdrop-filter: blur(10px);
 }
 article{     margin: auto;
     padding: 1em;
@@ -142,14 +145,14 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: white;
+	background-color: var(--text-copy-primary);
+		backdrop-filter: blur(10px);
 }
 
 /* Posts List */
 article {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
-	border-bottom: 1px solid #eee;
 	border-bottom: 1px solid var(--secondary);
 }
 
@@ -208,7 +211,7 @@ button {
 
 input,
 textarea {
-	border: 1px solid black;
+	border: 1px solid var(--text-copy-primary);
 }
 
 button {
