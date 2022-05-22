@@ -46,7 +46,7 @@ main {
 	/* max-width: 37.5em;*/
 }
 /* 4 columns*/
-div.4col, article.4col{
+div.four-col, article.four-col{
     display: inline-block;
     max-width: 500px;
     margin: 0.2rem;
