@@ -1,7 +1,7 @@
 <section class="">
 	{% for post in postslist | reverse %}
 		<article{% if post.url == url %} data-current="current item"{% endif %} class="four-col">
-			<h3><a href="{{ post.url | url }}">
+			<a href="{{ post.url | url }}">
 				<div class="image-shadow js-tilt-container" style="background-image:url({{ post.data.cover }})">
 				<h2 class="cardtitle">
 				
@@ -12,7 +12,7 @@
 					{% endif %}
 					</h2>
 				</a>
-			</h3>
+			
 			{% if post.data.summary %}
 				<p>
 					{{ post.data.summary }}
