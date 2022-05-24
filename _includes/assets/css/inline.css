@@ -12,7 +12,7 @@
     --bg-background-form: #fff;
     --text-copy-primary: #3d00ff;
     --text-copy-secondary: #2b1d58;
-    --border-border-color-primary: #ff7600;
+    --border-primary: #ff7600;
 }
 }
 
@@ -22,7 +22,7 @@
 	--bg-background-tertiary:#000;--bg-background-form:#000;
 	--text-copy-primary:#ff8b00;
 	--text-copy-secondary:#e2e8f0;
-	--border-border-color-primary:#ffc107;}
+	--border-primary:#ffc107;}
 }
 
 /* dark-orange {
@@ -32,7 +32,7 @@
     --bg-background-form: #fff;
     --text-copy-primary: #4c0066;
     --text-copy-secondary: #000;
-    --border-border-color-primary: #1a202c;
+    --border-primary: #1a202c;
 }*/
 
 *, *:before, *:after {
@@ -159,8 +159,9 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: var(--text-copy-primary);
-		backdrop-filter: blur(10px);
+    border-top: 34px solid;
+    border-radius: 0;
+	border-color: var(--border-primary);
 }
 
 /* Posts List */
