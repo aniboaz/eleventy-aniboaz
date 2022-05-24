@@ -57,14 +57,15 @@ section {
 }*/
 .image-shadow, .image-shadow::hover, .image-shadow::before{border-radius:12px}  
 .image-shadow:hover{  transform: scale(1.025)}
-.image-shadow {transition: all 20ms ease-in-out 1s;
-	    background: var(--secondary);
+.image-shadow {transition: scale 500ms ease-in-out;transform: scale(1)
   margin: 20px auto;
   width: 465px;
   height: 200px;
   display: block;
   position: relative;
   background-size: cover;
+      overflow: hidden;
+    border-radius: 1rem;
 }
 .image-shadow::before {
   background-color: var(--primary);
