@@ -4,7 +4,7 @@ author: Boaz Lederer
 type: post
 date: 2016-06-14T21:14:21+00:00
 url: /blog/2016/06/15/side-project-gofen/
-featured_image: /wp-content/uploads/2016/06/Screenshot_2.png
+cover: /wp-content/uploads/2016/06/Screenshot_2.png
 dsq_thread_id:
   - 4910646687
 categories:

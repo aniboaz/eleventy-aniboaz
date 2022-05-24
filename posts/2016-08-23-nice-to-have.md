@@ -3,8 +3,7 @@ title: 10 מיקרו-חוויות שלא הכרתם ב trello
 author: Boaz Lederer
 type: post
 date: 2016-08-23T16:21:49+00:00
-url: /blog/2016/08/23/nice-to-have/
-featured_image: /wp-content/uploads/2016/08/trello-140x140.jpg
+cover: https://res.cloudinary.com/aniboaz/image/upload/v1605298193/Blog/trello.jpg
 dsq_thread_id:
   - 5092552478
 categories:

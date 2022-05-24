@@ -4,7 +4,7 @@ author: Boaz Lederer
 type: post
 date: 2016-03-03T16:09:21+00:00
 url: /blog/2016/03/03/designpatterns/
-featured_image: /wp-content/uploads/2016/03/styleguidelibrary.jpg
+cover: https://res.cloudinary.com/aniboaz/image/upload/v1605298163/Blog/patterns.jpg
 dsq_thread_id:
   - 4631035343
 categories:

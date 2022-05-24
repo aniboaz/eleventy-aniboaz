@@ -4,7 +4,7 @@ author: Boaz Lederer
 type: post
 date: 2018-02-19T14:37:21+00:00
 url: /blog/2018/02/19/sketch-plugins/
-featured_image: /wp-content/uploads/2018/01/sketchplugins.jpg
+cover: https://res.cloudinary.com/aniboaz/image/upload/v1605298217/Blog/sketchplugins.jpg
 enclosure:
   - |
     |
