@@ -152,6 +152,7 @@ header nav li {
 header nav li a {
 	padding: .25em .5em;
 	border-radius: .25em;
+	transition: border 200ms ease-out;
 }
 
 header nav li a[href]:not(:hover) {
