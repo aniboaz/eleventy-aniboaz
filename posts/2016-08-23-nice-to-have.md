@@ -74,7 +74,7 @@ permalink: nicetohave.html
 </h2>
 
 <p dir="rtl">
-  <a href="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/07/Screenshot_4.png"><img class="alignright wp-image-1541 size-medium" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/07/Screenshot_4-595x260.png" alt="Screenshot_4" width="595" height="260" srcset="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/07/Screenshot_4-595x260.png 595w, http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/07/Screenshot_4.png 615w" sizes="(max-width: 595px) 100vw, 595px" /></a>כמעט לא משנה מה המוצר שלך, אני יכול להמר שיש לך שורת חיפוש, כפיצ&#8217;ר מרכזי. הפעולה של חיפוש הפכה כל כך שגורה (גוגל) בחיים שלנו שהמשתמש מצפה לתוצאות קלות וממוקדות בכל מקום.
+  <a href="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/07/Screenshot_4.png"><img class="alignright fancy size-medium" src="https://res.cloudinary.com/aniboaz/image/upload/v1605297349/Blog/Screenshot_4.png" /></a>כמעט לא משנה מה המוצר שלך, אני יכול להמר שיש לך שורת חיפוש, כפיצ&#8217;ר מרכזי. הפעולה של חיפוש הפכה כל כך שגורה (גוגל) בחיים שלנו שהמשתמש מצפה לתוצאות קלות וממוקדות בכל מקום.
 </p>
 
 <p dir="rtl">
@@ -118,7 +118,7 @@ permalink: nicetohave.html
 </p>
 
 <div id="attachment_1563" style="width: 490px" class="wp-caption alignright">
-  <a href="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/08/Screenshot_5.png"><img class="wp-image-1563 size-thumbnail" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/08/Screenshot_5-480x116.png" alt="color theifing" width="480" height="116" /></a>
+  <a href="https://res.cloudinary.com/aniboaz/image/upload/v1605298188/Blog/trello-1.jpg"><img class="fancy size-thumbnail" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto/Blog/trello-1.jpg" alt="color theifing" width="480" height="116" /></a>
   
   <p class="wp-caption-text">
     color theifing
