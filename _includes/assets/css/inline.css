@@ -4,25 +4,36 @@
 	--background: #fff3ce;
 	--text-copy-primary: #3d00ff;
 }
-.theme-light {
-    --bg-background-primary: #fff3ce;
-    --bg-background-secondary: #ffc570;
+@media (prefers-color-scheme: light) {
+	:root{
+    --background: #fff3ce;
+    --secondary: #ffc570;
     --bg-background-tertiary: #ffd39c;
     --bg-background-form: #fff;
     --text-copy-primary: #3d00ff;
     --text-copy-secondary: #2b1d58;
     --border-border-color-primary: #ff7600;
 }
+}
 
-.dark-orange {
-    --bg-background-primary: #f52;
-    --bg-background-secondary: #fc953c;
+@media (prefers-color-scheme: dark) {
+	:root{--bg-background-primary:#19101f;
+	--bg-background-secondary:#1c1123;
+	--bg-background-tertiary:#000;--bg-background-form:#000;
+	--text-copy-primary:#ff8b00;
+	--text-copy-secondary:#e2e8f0;
+	--border-border-color-primary:#ffc107;}
+}
+
+/* dark-orange {
+    --background: #f52;
+    --secondary: #fc953c;
     --bg-background-tertiary: #ffac93;
     --bg-background-form: #fff;
     --text-copy-primary: #4c0066;
     --text-copy-secondary: #000;
     --border-border-color-primary: #1a202c;
-}
+}*/
 
 *, *:before, *:after {
   box-sizing: border-box;
@@ -231,6 +242,3 @@ h1, h2{font-family: "Secular One", serif;}
 		font-size: 1.1rem;
 	}
 }
-
-/*.flex{display:flex;flex-wrap: nowrap;}
-*/
