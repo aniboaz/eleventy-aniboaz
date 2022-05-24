@@ -17,8 +17,8 @@
 }
 
 @media (prefers-color-scheme: dark) {
-	:root{--bg-background-primary:#19101f;
-	--bg-background-secondary:#1c1123;
+	:root{--background:#19101f;
+	--secondary:#1c1123;
 	--bg-background-tertiary:#000;--bg-background-form:#000;
 	--text-copy-primary:#ff8b00;
 	--text-copy-secondary:#e2e8f0;
@@ -43,14 +43,13 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Heebo",-apple-system,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
 }
 
 body {
 	display: grid;
 	height: 100vh;
-	grid-template-rows: auto 1fr auto;
-	background-color: var(--background);
+	grid-template-rows: auto 1fr auto;font-family: "Heebo",-apple-system,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+	background-color: var(--background);color: var(--text-copy-secondary);
 }
 
 main {
