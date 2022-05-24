@@ -7,8 +7,3 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-### **Hi there, this is the website of**
-
-## An Interactive designer
-
-# Product Designer & Animator called *Boaz.*
