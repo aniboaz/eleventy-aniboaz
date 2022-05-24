@@ -17,7 +17,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-	:root{--background:#19101f;
+	:root{--background:rgb(25, 16, 31);
 	--secondary:#1c1123;
 	--bg-background-tertiary:#000;--bg-background-form:#000;
 	--text-copy-primary:#ff8b00;
@@ -93,6 +93,7 @@ footer {
 }
 header {
     backdrop-filter: blur(10px);
+	background-color: rgba(var(--background), 0.8);
 }
 article{     margin: auto;
     padding: 1em;
