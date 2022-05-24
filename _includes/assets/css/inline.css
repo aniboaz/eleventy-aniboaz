@@ -2,7 +2,7 @@
 	--primary: orangered;
 	--secondary: #ffc570;
 	--background: #fff3ce;
-	--text-copy-primary: #3d00ff;
+	--text-primary: #3d00ff;
 }
 @media (prefers-color-scheme: light) {
 	:root{
@@ -10,8 +10,8 @@
     --secondary: #ffc570;
     --bg-background-tertiary: #ffd39c;
     --bg-background-form: #fff;
-    --text-copy-primary: #3d00ff;
-    --text-copy-secondary: #2b1d58;
+    --text-primary: #3d00ff;
+    --text-secondary: #2b1d58;
     --border-primary: #ff7600;
 }
 }
@@ -20,8 +20,8 @@
 	:root{--background:rgb(25, 16, 31);
 	--secondary:#1c1123;
 	--bg-background-tertiary:#000;--bg-background-form:#000;
-	--text-copy-primary:#ff8b00;
-	--text-copy-secondary:#e2e8f0;
+	--text-primary: #cf84ff;
+	--text-secondary:#e2e8f0;
 	--border-primary:#ffc107;}
 }
 
@@ -30,8 +30,8 @@
     --secondary: #fc953c;
     --bg-background-tertiary: #ffac93;
     --bg-background-form: #fff;
-    --text-copy-primary: #4c0066;
-    --text-copy-secondary: #000;
+    --text-primary: #4c0066;
+    --text-secondary: #000;
     --border-primary: #1a202c;
 }*/
 
@@ -49,7 +49,7 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;font-family: "Heebo",-apple-system,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
-	background-color: var(--background);color: var(--text-copy-secondary);
+	background-color: var(--background);color: var(--text-secondary);
 }
 
 main {
@@ -74,7 +74,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--text-copy-primary);
+	color: var(--text-primary);
 }
 
 a[href]:not(:hover) {
@@ -93,7 +93,7 @@ footer {
 }
 header {
     backdrop-filter: blur(10px);
-	background-color: rgba(var(--background), 0.8);
+    background: linear-gradient(var(--background), rgba(0,0,0,0));
 }
 article{     margin: auto;
     padding: 1em;
@@ -187,8 +187,8 @@ a[rel="tag"]:visited {
   padding: 0 .5em;
 	line-height: 2em;
 	height: 2em;
-	border: 1px solid var(--text-copy-primary);
-    background-color: var(--text-copy-primary);
+	border: 1px solid var(--text-primary);
+    background-color: var(--text-primary);
     color: var(--background);
   border-radius: .25em;
   text-decoration: none;
@@ -226,7 +226,7 @@ button {
 
 input,
 textarea {
-	border: 1px solid var(--text-copy-primary);
+	border: 1px solid var(--text-primary);
 }
 
 button {
