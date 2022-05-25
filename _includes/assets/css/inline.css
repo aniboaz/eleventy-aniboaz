@@ -12,7 +12,7 @@
     --bg-background-form: #fff;
     --text-primary: #4300b6;
     --text-secondary: #2b1d58;
-    --border-primary: #a200ff;
+    --border-primary: #000000;
 }
 }
 
@@ -265,6 +265,8 @@ time small {
 
 img.avatar{margin: 8px;
 }
-img.fancy{border: 1px solid var(--text-primary);
-box-shadow: 1px 1px 0px 0px var(--text-primary);}
+img.fancy{    border: 2px solid var(--text-primary);
+    box-shadow: 4px 4px 0 0 var(--text-primary);
+    border-radius: 12px;
+}
 
