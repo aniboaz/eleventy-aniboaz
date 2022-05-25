@@ -1,8 +1,6 @@
 <section class="advantages  py-12 px-4 text-center">
-  <span class="text-sm font-semibold">whats so great about you?</span>
+    <div class="container -mx-4 -mb-6">  <span class="text-sm font-semibold">whats so great about you?</span>
     <h1 class="text-purple text-4xl font-serif font-heading"> Main Advantages</h1>
-
-    <div class="container -mx-4 -mb-6">
           <div class="adv-1 lg:w-1/4 px-4 mb-6 md:w-1/2">
 
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 233.05 233.05">
@@ -94,7 +92,8 @@
     max-width: 1160px;
     margin: auto;
 }
-.advantages h1,.advantages span{grid-area: title;}
+.advantages h1,.advantages span{grid-area: title;text-align: center;
+    line-height: 1.2;}
 div[class^="adv-"]{
   padding:2rem;
 background: var(--secondary);
@@ -122,11 +121,17 @@ background: var(--secondary);
     align-items: center;
 }
 
-.adv-1 svg { grid-area: svg; }
+.adv-1 svg, .adv-4 svg { grid-area: svg; }
 
-.adv-1 h3 { grid-area: h3; }
+.adv-1 h3, adv-4 h3 { grid-area: h3; }
 
-.adv-1 p { grid-area: p; }
+.adv-1 p,.adv-4 p { grid-area: p; }
+
+@media screen and (min-width:768px) {
+.adv-1, adv-4{display:inline-block}
+
+}
+.adv-2,.adv-3{max-width: 320px;}
 
 /*colors*/
 .d {
