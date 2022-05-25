@@ -13,7 +13,6 @@ tags:
   - GUI
   - product
   - trello
-  - u
   - Ux
   - איפיון ממשק
   - עיצוב ממשק משתמש

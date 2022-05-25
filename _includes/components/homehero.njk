@@ -3,29 +3,25 @@
 		<h3><strong>Hi there, this is the website of</strong></h3><h2>An Interactive designer</h2>
         <h1 >Product Designer &amp; Animator called <em>Boaz.</em></h1>
 	</div>
-    <img src="https://res.cloudinary.com/aniboaz/image/upload/w_120,g_south,dpr_2.0,f_auto/bgb.png" class="me">
+    <img src="https://res.cloudinary.com/aniboaz/image/upload/w_120,g_south,dpr_2.0,f_auto/a_270/bgb.png" class="me">
 </section>
   
 <style scoped>
-    section.hero{background-image:
-	radial-gradient(at 40% 20%, var(--primary) 0px, transparent 50%),
-	radial-gradient(at 80% 0%, var(--secondary) 0px, transparent 50%),
-	radial-gradient(at 0% 50%, var(--primary) 0px, transparent 50%),
-	radial-gradient(at 80% 50%, var(--primary) 0px, transparent 50%),
-	radial-gradient(at 0% 100%, var(--secondary) 0px, transparent 50%),
-	radial-gradient(at 80% 100%, var(--background) 0px, transparent 50%),
-	radial-gradient(at 0% 0%, var(--text-primary) 0px, transparent 50%);
-    display: grid; 
-  grid-auto-columns: 1fr; 
-  grid-template-columns: 1fr 1fr; 
-  grid-template-rows: 1fr 1fr; 
-  gap: 0px 0px; 
-  grid-template-areas: 
-    "text ."
-    "text face"; }
+    section.hero{    background-image: radial-gradient(at 40% 20%, var(--primary) 0px, transparent 50%), radial-gradient(at 80% 0%, var(--secondary) 0px, transparent 50%), radial-gradient(at 0% 50%, var(--primary) 0px, transparent 50%), radial-gradient(at 80% 50%, var(--primary) 0px, transparent 50%), radial-gradient(at 0% 100%, var(--secondary) 0px, transparent 50%), radial-gradient(at 80% 100%, var(--background) 0px, transparent 50%), radial-gradient(at 0% 0%, var(--text-primary) 0px, transparent 50%);
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 0px 0px;
+    grid-template-areas:
+        "text ."
+        "text face";
+    margin-left: -20px;
+    width: 100vw; }
 
+.hero em{color:var(--primary);}
 .hero {
-margin: auto;
+margin: auto; WIDTH: 100vw;
     position: relative;
     max-height: 100vh;
     top: -100px;
@@ -35,22 +31,32 @@ margin: auto;
  .hero{background: var(--secondary)
 background-position:cover;}
 
-
+img.me {
+    grid-area: face;
+    /* min-width: 200px; */
+    /* display: block; */
+    /* height: 200px; */
+    position: absolute;
+    /* bottom: 0; */
+    right: 0;mix-blend-mode: overlay;
+}
 
 .face { grid-area: face; }
 .text { grid-area: text; }
 
 .content {
-    text-align: center;
-    padding: 60px;
+    /* text-align: center; */
+    padding: 2rem;
+    padding-top: 100px;
     /* background: rgba(0,0,0,0.2); */
-    WIDTH: 100vw;
+    WIDTH: 72vw;
+    grid-area: text;
 }
 /* responsive */
 .content h1 {
-	place-self: center;
-	font-size: clamp(2rem, 10vw, 4rem);
-	text-align: center;
+place-self: center;
+    font-size: clamp(2rem, 10vw, 4rem);
+    /* text-align: center;
 }
 
 section.article {
