@@ -41,4 +41,10 @@ After studying animation and film at Sapir academic college, I started working a
         ". aboutimage"
         ". aboutimage";
 }
+
+@media screen and (max-width:768px) {
+.content{WIDTH: 100%;}
+.about{display:block;}
+
+}
   </style>
