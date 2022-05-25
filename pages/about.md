@@ -22,5 +22,8 @@ After studying animation and film at Sapir academic college, I started working a
 <section>
 
 <style scoped>
-
+.about img {
+    float: right;
+    margin: 2rem;
+}
   </style>
