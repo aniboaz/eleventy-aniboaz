@@ -2,7 +2,7 @@
 title: 'pixeldribbble  טרנדים וקהילה'
 author: Boaz Lederer
 type: post
-date: 2015-06-29 00:00:00 UTC
+date: 2015-06-29
 url: /blog/2015/06/29/pixel-dribbble-טרנדים-וקהילה/
 cover: https://res.cloudinary.com/aniboaz/image/upload/f_auto/Blog/pixel-dribbble02.jpg
 dsq_thread_id:
