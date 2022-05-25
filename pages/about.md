@@ -39,7 +39,8 @@ After studying animation and film at Sapir academic college, I started working a
         ". aboutimage"
         ". aboutimage"
         ". aboutimage"
-        ". aboutimage";
+        ". aboutimage";    max-width: 1080px;
+    margin: auto;
 }
 
 @media screen and (max-width:768px) {
