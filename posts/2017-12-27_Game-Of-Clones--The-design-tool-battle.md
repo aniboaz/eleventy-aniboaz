@@ -123,7 +123,7 @@ So why is this important also from a business perspective? because part of being
 
 _I’ll keep an eye out for Invision as well._
 
-![](https://cdn-images-1.medium.com/max/800/1*0uvY9qgW7jvsJ9MOs16dng.jpeg)
+![](https://res.cloudinary.com/aniboaz/image/upload/c_fill,f_auto,g_west,h_460,w_440,q_auto/Blog/1_ns5nbrlR0UAP-DY7vOR_SA.jpg)
 
 ### Why Photoshop is still king
 

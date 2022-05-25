@@ -173,11 +173,6 @@ article {
 	border-bottom: 1px solid var(--secondary);
 }
 
-main > section > article > * {
-	margin-top: 0;
-	margin-bottom: .5em;
-}
-
 /* Post Tags */
 a[rel="tag"],
 a[rel="tag"]:visited {
