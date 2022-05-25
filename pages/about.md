@@ -24,9 +24,21 @@ After studying animation and film at Sapir academic college, I started working a
 <style scoped>
 .about img {
     float: right;
-    margin: 2rem;
+    margin: 2rem;    grid-area: aboutimage;
 }
 .about {
-    padding: 2rem;display:grid;
+    padding: 2rem;
+    display: grid;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto auto auto;
+    gap: 0px 0px;
+    grid-template-areas:
+        ". aboutimage"
+        ". aboutimage"
+        ". aboutimage"
+        ". aboutimage"
+        ". aboutimage";
 }
   </style>
