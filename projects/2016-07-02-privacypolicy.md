@@ -4,7 +4,7 @@ author: Boaz Lederer
 type: post
 date: 2016-07-02T16:10:20+00:00
 url: /blog/2016/07/02/privacypolicy/
-cover: /wp-content/uploads/2015/07/V_for_Vendetta_79894.jpg
+cover: https://res.cloudinary.com/aniboaz/image/upload/v1605298161/Blog/V_for_Vendetta_79894.jpg
 dsq_thread_id:
   - 4955842592
 categories:

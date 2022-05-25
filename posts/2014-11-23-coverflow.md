@@ -1,5 +1,5 @@
 ---
-date: 2014-11-23T21:21:26+00:00
+date: 2014-11-23 00:00:00 UTC
 author: Boaz Lederer
 summary: The Bad artist imitate, the great artist steal
 lang: heb
