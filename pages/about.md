@@ -9,6 +9,7 @@ eleventyNavigation:
   key: About
   order: 1
 ---
+<section class="about">
 more about me
 
 ## I have been specializing in graphic design and animation for over 10 years.
@@ -18,3 +19,8 @@ more about me
 After studying animation and film at Sapir academic college, I started working as head of graphics @ Mizmor-HD video productions. Studied User Experience design @Netcraft. then got the opportunity to be a full-time GUI expert @ Inkod-hypera. Currently Product designer [@ Cloudinary.](https://aniboaz.netlify.app/#)
 
 <img src="https://res.cloudinary.com/aniboaz/image/upload/c_scale,f_auto,q_90,w_560/buzy.jpg" alt="a picture of Boaz looking at the screen looking smart and all" class="fancy">
+<section>
+
+<style scoped>
+
+  </style>
