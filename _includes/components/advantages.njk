@@ -89,13 +89,16 @@
   grid-auto-flow: row;
   grid-template-areas:
     "adv-1 adv-1 adv-3"
-    "adv-2 . adv-3"
+    "adv-2 title adv-3"
     "adv-2 adv-4 adv-4";
+    max-width: 1160px;
+    margin: auto;
 }
-
+.advantages h1,.advantages span{grid-area: title;}
 div[class^="adv-"]{
   padding:2rem;
-
+background: var(--secondary);
+    margin: 1rem;
 }
 .adv-1 { grid-area: adv-1; }
 
