@@ -2,7 +2,7 @@
 	--primary: orangered;
 	--secondary: #ffc570;
 	--background: #fff3ce;
-	--text-primary: #5400e6;
+	--text-primary: #4300b6;
 }
 @media (prefers-color-scheme: light) {
 	:root{
@@ -10,7 +10,7 @@
     --secondary: #ffc570;
     --bg-background-tertiary: #ffd39c;
     --bg-background-form: #fff;
-    --text-primary: #5400e6;
+    --text-primary: #4300b6;
     --text-secondary: #2b1d58;
     --border-primary: #ff7600;
 }
@@ -18,10 +18,10 @@
 
 @media (prefers-color-scheme: dark) {
 	:root{--background:rgb(25, 16, 31);
-	--secondary:#1f1724;
+	--secondary:#2b1f32;
 	--bg-background-tertiary:#000;
 	--bg-background-form:#000;
-	--text-primary: #cf84ff;
+	--text-primary: #7300ff;
 	--text-secondary:#e2e8f0;
 	--border-primary:#ffc107;}
 }
@@ -164,7 +164,7 @@ header nav li a[href]:not(:hover) {
 header nav li a[data-current="current item"] {
     border-top: 34px solid;
     border-radius: 0;
-	border-color: var(--border-primary);
+	border-color: var(--border-primary);color: var(--border-primary);
 }
 
 /* Posts List */
