@@ -120,14 +120,16 @@ background: var(--secondary);
     height: 280px;
     align-items: center;
 }
-
+.advantages svg {
+    width: 260px;
+}
 .adv-1 svg, .adv-4 svg { grid-area: svg; }
 
 .adv-1 h3, adv-4 h3 { grid-area: h3; }
 
 .adv-1 p,.adv-4 p { grid-area: p; }
 
-@media screen and (min-width:768px) {
+@media screen and (max-width:768px) {
 .adv-1, .adv-4{display: inline-block;
     max-width: 320px;
     height: auto;}
