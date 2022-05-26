@@ -266,7 +266,7 @@ time small {
     justify-content: flex-start;
 }
 
-img.avatar{margin: 8px;
+img.avatar{margin: 8px; box-shadow: 2px 2px;
 }
 img.fancy{    border: 2px solid var(--text-primary);
     box-shadow: 4px 4px 0 0 var(--text-primary);
