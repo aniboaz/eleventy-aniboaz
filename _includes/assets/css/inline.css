@@ -49,7 +49,7 @@ body {
 body {
 	display: grid;
 	height: 100vh;
-	grid-template-rows: auto 1fr auto;font-family: "Heebo",-apple-system,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+	grid-template-rows: auto 1fr auto;font-family: "Heebo", "outfit", -apple-system,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
 	background-color: var(--background);color: var(--text-secondary);
 }
 
@@ -248,7 +248,7 @@ button:hover{
 button:active{box-shadow: 0px 0px 0px 0px var(--text-primary);position:relative;
 	top:1px;}
 
-h1, h2{font-family: "Karantina", serif;}
+h1, h2{font-family: "Outfit", serif;}
 h1{font-size: clamp(2rem, 10vw, 4rem); color: var(--text-primary);}
 
 @media screen and (min-width:768px) {
