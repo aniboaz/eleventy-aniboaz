@@ -52,10 +52,10 @@ body {
 	grid-template-rows: auto 1fr auto;font-family: "Heebo", "outfit", -apple-system,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
 	background-color: var(--background);color: var(--text-secondary);
 }
-
+	/*
 main {
-	/* max-width: 37.5em;*/
-}
+ max-width: 37.5em;
+}*/
 /* 4 columns*/
 div.four-col, article.four-col{
     display: inline-block;
