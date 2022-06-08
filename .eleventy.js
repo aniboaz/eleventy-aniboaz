@@ -9,12 +9,6 @@ module.exports = function(eleventyConfig) {
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
-//syntax
-const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-
-module.exports = function(eleventyConfig) {
-  eleventyConfig.addPlugin(syntaxHighlight);
-};
 
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
   // layout aliases! Say you have a bunch of existing content using
