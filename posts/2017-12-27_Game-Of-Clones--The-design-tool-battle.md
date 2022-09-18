@@ -10,6 +10,10 @@ categories: []
 keywords: []
 tags:
   - UX
+  - figma
+  - sketch
+  - design tools
+  - adobe
 permalink: game-of-clones-the-design-tool-battle.html
 ---
 
