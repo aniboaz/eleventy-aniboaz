@@ -37,7 +37,7 @@ permalink: nicetohave.html
 </h2>
 
 <p dir="rtl">
-  <img class="size-large wp-image-1542 alignright" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/07/Screenshot_5.png" alt="Screenshot_5" width="141" height="35" /><a href="https://www.nngroup.com/articles/hamburger-menus/">הרבה דיו</a> נשפך על הנושא הזה, וגם לי אישית יש איזשהי סלידה מאייקונים שאין להם הסבר והם לא ברורים. ותפריטי &#8220;המוברגר\קבב שלושת הווטאבר&#8221; הם דוגמא בולטת לזה- פשוט כי אנשים לא מבינים מה זה ולא מוצאים את זה. בטרלו פתרו את זה בצורה פשוטה &#8211; על ידי הוספה של הסבר מילולי. לא הכי אסטטי &#8211; אבל בהחלט לא משאיר מקום לטעויות.
+  <img class="size-large wp-image-1542 alignright" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/Screenshot_5_1.png" alt="Screenshot_5" width="141" height="35" /><a href="https://www.nngroup.com/articles/hamburger-menus/">הרבה דיו</a> נשפך על הנושא הזה, וגם לי אישית יש איזשהי סלידה מאייקונים שאין להם הסבר והם לא ברורים. ותפריטי &#8220;המוברגר\קבב שלושת הווטאבר&#8221; הם דוגמא בולטת לזה- פשוט כי אנשים לא מבינים מה זה ולא מוצאים את זה. בטרלו פתרו את זה בצורה פשוטה &#8211; על ידי הוספה של הסבר מילולי. לא הכי אסטטי &#8211; אבל בהחלט לא משאיר מקום לטעויות.
 </p>
 
 <h2 dir="rtl">

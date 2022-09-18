@@ -21,7 +21,7 @@ lang: heb
 permalink: pixeldribble.html
 ---
 <p >
-  <img class="alignleft" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/sites/2/2015/03/summerui05-300x200.jpg" alt="my dribbble shot" width="300" height="200" />
+  <img class="alignleft" src="https://res.cloudinary.com/aniboaz/image/upload/w_300,f_auto/portfolio/summerui05.jpg" alt="my dribbble shot" width="300" height="200" />
 </p>
 
 <p >
@@ -55,7 +55,7 @@ permalink: pixeldribble.html
 
 
 <p >
-  נשמע מעניין? &#8211;  <a href="http://www.aniboaz.co.il/Blog/work/portfolio/seasons-ui-kit/">עוד כאן</a><br /> <img class="alignleft size-medium wp-image-952" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2015/05/pixel-dribbble-744x558.jpg" alt="pixel-dribbble" width="744" height="558" srcset="http://www.aniboaz.co.il/Blog/wp-content/uploads/2015/05/pixel-dribbble-744x558.jpg 744w, http://www.aniboaz.co.il/Blog/wp-content/uploads/2015/05/pixel-dribbble-420x315.jpg 420w, http://www.aniboaz.co.il/Blog/wp-content/uploads/2015/05/pixel-dribbble-1200x900.jpg 1200w, http://www.aniboaz.co.il/Blog/wp-content/uploads/2015/05/pixel-dribbble-700x525.jpg 700w" sizes="(max-width: 744px) 100vw, 744px" />
+  נשמע מעניין? &#8211;  <a href="http://www.aniboaz.co.il/Blog/work/portfolio/seasons-ui-kit/">עוד כאן</a><br /> <img class="alignleft size-medium wp-image-952" src="https://res.cloudinary.com/aniboaz/image/upload/w_744,f_auto,q_auto/Blog/pixel-dribbble.jpg" alt="pixel-dribbble" width="744" height="558" srcset="https://res.cloudinary.com/aniboaz/image/upload/w_744,f_auto,q_auto/Blog/pixel-dribbble.jpg 744w, https://res.cloudinary.com/aniboaz/image/upload/w_420,f_auto,q_auto/Blog/pixel-dribbble.jpg 420w, https://res.cloudinary.com/aniboaz/image/upload/w_1200,f_auto,q_auto/Blog/pixel-dribbble.jpg 1200w, https://res.cloudinary.com/aniboaz/image/upload/w_700,f_auto,q_auto/Blog/pixel-dribbble.jpg 700w" sizes="(max-width: 744px) 100vw, 744px" />
 </p>
 
 <h2 >

@@ -39,7 +39,7 @@ It was roughly the same time that Airbnb Design announced [Lottie](http://airbnb
 
 However, Is this the best method for what I need? and whats all this in the json file?
 
-![Bodymovin **scary** code output](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/800/0*sUbxRG00yMakJVmG.jpg)
+![Bodymovin **scary** code output](https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/Screenshot_2.jpg)
 Bodymovin **scary** code output
 
 It made me realize this solution (with its [limited](https://github.com/bodymovin/bodymovin/wiki/) support) Is not right for me. this massive code and Js add-on is exactly what I wanted to avoid.
@@ -52,7 +52,7 @@ So lets try to see more about animating svg without opening any animation progra
 
 > the biggest best guide to anything SVG is [Here](https://svgontheweb.com/)
 
-![vector illustration made with (surprise) illustrator](https://res.cloudinary.com/aniboaz/image/fetch/https://cdn-images-1.medium.com/max/800/0*YT1cfvZdiL1ppZF8.png)
+![vector illustration made with (surprise) illustrator](https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/icons-03.png)
 vector illustration made with (surprise) illustrator
 
 ### What’s SVG anyway?
