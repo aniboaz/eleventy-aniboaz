@@ -17,7 +17,7 @@ tags:
 permalink: game-of-clones-the-design-tool-battle.html
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*ns5nbrlR0UAP-DY7vOR_SA.jpeg)
+![](https://res.cloudinary.com/aniboaz/image/upload/f_auto/Blog/1_ns5nbrlR0UAP-DY7vOR_SA.jpg)
 
 I wrote [a while back](https://medium.com/@aniboaz/prototyping-wars-c2fd614f1426) about the prototyping wars. now that 2017 is coming to an end, there is a continuing [boom of products for designing user interface](http://www.prototypr.io/prototyping-tools/). not to be confused with prototyping products, or UX solutions ([wait what?](https://uxtools.co/tools/design)). Whats more, the grey area between high fidelity screen design and interactive prototyping is even thinner after almost every high fidelity UI design tool added (very basic) prototyping features.
 
@@ -25,7 +25,7 @@ However this time I want to look at it from a business point of view to try to g
 
 Although I am not in a position to of a business manager (but as a user of these programs), and don’t have viable data to confirm my assumptions. I suggest to ask the strategy and goals so I can perfect these qualities as a product designer.
 
-![](https://cdn-images-1.medium.com/max/600/1*uF_5KcxvZnT8CAWJdeMExA.jpeg)
+![sketch](https://res.cloudinary.com/aniboaz/image/upload/c_crop,g_center,h_800,w_600/w_420,q_auto/Blog/1_ns5nbrlR0UAP-DY7vOR_SA.jpg)
 
 ### **Sketch** the revolutionary
 
@@ -35,7 +35,7 @@ The seven year run that sketch made from a [modest web-oriented vector tool](htt
 
 What can we learn from bohemian about product strategy and design?
 
-![](https://cdn-images-1.medium.com/max/600/0*zcskWO111i3Ffsvc.jpg)
+![](https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/0*zcskWO111i3Ffsvc.jpg)
 
 #### Creating a blue sea
 
@@ -89,7 +89,7 @@ The main reason for this is all the fresh new players.
 
 ### Figma ~ the distruptor
 
-![](https://cdn-images-1.medium.com/max/600/1*gnhky8zPWfEW9oh_XmmnFg.jpeg)
+![](https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/1*gnhky8zPWfEW9oh_XmmnFg.jpeg)
 
 there are a lot of new players coming in to claim the throne following sketch’s rise to the top. During the writing of this article even _invision_, one of the most supporting partners of sketch, announced their [own solution](https://www.invisionapp.com/studio). (probably to become an _Independent_ “all-in-one” solution).
 
@@ -99,13 +99,15 @@ So now ill say why my money is on _Figma as the next sketch_. not just because i
 
 From inception figma challenged the rules of the game by betting on a [browser based solution.](https://blog.figma.com/design-meet-the-internet-4140774f2872) to most designers this seemed wrong — we're used to thinking we need big hardware to run graphics. but younger designers who work with web 2.0 see no reason for this.
 
-![](https://cdn-images-1.medium.com/max/800/1*hvX2oyr8oLjRnb4gQzihJQ.gif)
+![](https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/figma2.gif)
 
 #### Realtime collaboration
 
 One of the big advantages of being a cloud based was a real innovation in terms of interface design — realtime collaboration. its also a recognition that designers work in teams and have different needs that sketch, probably is less suited for.
 
 Figma (like framer) defined collaboration, prototyping, sharing and handoff as part of the designer workflow, and as such, provide a solution for many needs.
+
+![](https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/figma.gif)
 
 #### All in one
 
@@ -127,13 +129,13 @@ So why is this important also from a business perspective? because part of being
 
 _I’ll keep an eye out for Invision as well._
 
-![](https://res.cloudinary.com/aniboaz/image/upload/c_fill,f_auto,g_west,h_460,w_440,q_auto/Blog/1_ns5nbrlR0UAP-DY7vOR_SA.jpg)
+![](https://res.cloudinary.com/aniboaz/image/upload/c_fill,f_auto,g_west,h_460,w_440,q_auto/Blog/figma.jpg)
 
 ### Why Photoshop is still king
 
 My view on the battle between photoshop Vs. sketch is that Phtoshop wasnt ever in the battle. If any it was Fireworks that [died and bled in the field](http://productgraveyard.com/products/fireworks.html).
 
-![the layout for every graphic program ever.](https://cdn-images-1.medium.com/max/600/0*NESpxRH65g8D7sX9.jpg)
+![the layout for every graphic program ever.](https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/0*NESpxRH65g8D7sX9.jpg)
 the layout for every graphic program ever.
 
 The starting point of any comparison of photoshop to anything is unfair, I can easily name a few advantages
@@ -156,7 +158,7 @@ Adobe tested out several options to include [UI design within photoshop](https:/
 
 They also developed brackets an open source IDE that would deal with the handoff gap.
 
-![adobe XD added some powerful features towards the launch.](https://cdn-images-1.medium.com/max/800/0*RuDaumIeO6iPTfHL.gif)
+![adobe XD added some powerful features towards the launch.](https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/0*RuDaumIeO6iPTfHL.gif)
 adobe XD added some powerful features towards the launch.
 
 Initially, as a designer, I was constantly disappointed by XD. as a windows user I wanted it to succeed but keep in mind the playing field was pretty heavy by the time it got out as beta and not being able to even copy paste(off photoshop) or see layers got me off the wagon. I can say that from appearance the [launch of the product](https://techcrunch.com/2017/10/18/adobe-xd-designing-at-the-speed-of-thought/) along with recent updates can pose a real threat to any other competition.

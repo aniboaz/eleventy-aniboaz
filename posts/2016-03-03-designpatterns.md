@@ -87,7 +87,7 @@ permalink: designpattern.html
 </p>
 
 <div id="attachment_1118" style="width: 490px" class="wp-caption alignnone">
-  <img class="wp-image-1118 size-thumbnail" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/02/Screenshot_9-480x640.png" alt="Frontify" width="480" height="640" />
+  <img class="wp-image-1118 size-thumbnail" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/Screenshot_9-480x640.png" alt="Frontify" width="480" height="640" />
 
   <p class="wp-caption-text">
     דוגמא לסטיילגייד במערכת frontify.
@@ -123,7 +123,7 @@ permalink: designpattern.html
 </p>
 
 <div id="attachment_1142" style="width: 323px" class="wp-caption alignright">
-  <img class="size-full wp-image-1142" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/02/datepicker.jpg" alt="דוגמא לתבנית - datepicker" width="313" height="314" />
+  <img class="size-full wp-image-1142" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/datepicker.jpg" alt="דוגמא לתבנית - datepicker" width="313" height="314" />
 
   <p class="wp-caption-text">
     דוגמא לתבנית &#8211; datepicker
@@ -151,7 +151,7 @@ permalink: designpattern.html
 </p>
 
 <div id="attachment_1114" style="width: 856px" class="wp-caption aligncenter">
-  <img class="wp-image-1114 size-full" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/01/google.png" alt="google materials guidlines" width="846" height="530" srcset="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/01/google.png 846w, http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/01/google-595x373.png 595w, http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/01/google-768x481.png 768w, http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/01/google-700x439.png 700w" sizes="(max-width: 846px) 100vw, 846px" />
+  <img class="wp-image-1114 size-full" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/google.png" alt="google materials guidlines" width="846" height="530" srcset="https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/google.png 846w, https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/google-595x373.png 595w, https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/google-768x481.png 768w, https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/google-700x439.png 700w" sizes="(max-width: 846px) 100vw, 846px" />
 
   <p class="wp-caption-text">
     google materials guidlines
@@ -224,7 +224,7 @@ permalink: designpattern.html
 </p>
 
 <p dir="rtl">
-  <img class="alignright size-full wp-image-1110" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/01/Screenshot_5.png" alt="Screenshot_5" width="377" height="373" /><a href="http://www.adobe.com/il_en/creativecloud/libraries.html">libraries</a> &#8211; הכלי הזה מאפשר לי לאתר ולהגדיר מרכיבים ותבניות וכך לחזור אחריהם בצורה אחידה תוך כדי עבודה. הדוגמא הבולטת היא, לאחר שהגדרתי את פלטת הצבעים, לדגום אותה ל&#8221;ספרייה&#8221; וכך אוכל בלחיצת כפתור ליישם את הצבע על כל אלמנט.
+  <img class="alignright size-full wp-image-1110" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/Screenshot_5.png" alt="Screenshot_5" width="377" height="373" /><a href="http://www.adobe.com/il_en/creativecloud/libraries.html">libraries</a> &#8211; הכלי הזה מאפשר לי לאתר ולהגדיר מרכיבים ותבניות וכך לחזור אחריהם בצורה אחידה תוך כדי עבודה. הדוגמא הבולטת היא, לאחר שהגדרתי את פלטת הצבעים, לדגום אותה ל&#8221;ספרייה&#8221; וכך אוכל בלחיצת כפתור ליישם את הצבע על כל אלמנט.
 </p>
 
 <p dir="rtl">

@@ -45,7 +45,7 @@ permalink: nicetohave.html
 </h2>
 
 <p dir="rtl">
-  מה מנהלי פרוייקטים הכי אוהבים בעולם? &#8211; להוסיף פיצ&#8217;רים חדשים כמובן! בטרלו הבינו את קהל היעד ומצאו דרך יצירתית &#8216;להשוויץ&#8217; אחרי כל עדכון &#8211; הקמע של טרלו מופיע <img class="size-full wp-image-1535 alignleft" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/07/Screenshot_2.png" alt="trello new feature input" width="156" height="55" />באנימציה ולידו תגית &#8216;new stuff!&#8217; ראיתי בעוד הרבה מקומות הודעות על עדכונים ומשום מה רק פה באמת הופתעתי והתלהבתי &#8211; ולכן גם לחצתי לראות מה חדש..
+  מה מנהלי פרוייקטים הכי אוהבים בעולם? &#8211; להוסיף פיצ&#8217;רים חדשים כמובן! בטרלו הבינו את קהל היעד ומצאו דרך יצירתית &#8216;להשוויץ&#8217; אחרי כל עדכון &#8211; הקמע של טרלו מופיע <img class="size-full wp-image-1535 alignleft" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/Screenshot_2.png" alt="trello new feature input" width="156" height="55" />באנימציה ולידו תגית &#8216;new stuff!&#8217; ראיתי בעוד הרבה מקומות הודעות על עדכונים ומשום מה רק פה באמת הופתעתי והתלהבתי &#8211; ולכן גם לחצתי לראות מה חדש..
 </p>
 
 <p dir="rtl">
@@ -57,7 +57,7 @@ permalink: nicetohave.html
 </h2>
 
 <p dir="rtl">
-  המושג מיקרו-אינטראקציות קצת סובל משימוש יתר, אבל אני חושב שאחת הדוגמאות הטובות ביותר <img class="alignright size-full wp-image-1543" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/07/draganim.png" alt="draganim" width="343" height="244" />למושג הזה היא בפרט קטן כמו חווית הגרירה של המשימות בתוך טרלו. זה בעצם חלק ממקרה השימוש הנפוץ ביותר. היה אפשר להשתגע ולהוסיף הרבה רעש וצלצולים לתהליך הזה אבל מה שאהבתי כאן הוא דווקא הפשטות. ההבדל הגדול כאן הוא הטייה אלכסונית של המשימה בזמן הגרירה. כן כן זה כל העניין. נסו בעצמכם ותבינו שזה מעצים את החוויה בצורה רבה, בין השאר כי המח שלנו אוהב להכניס צורות לתוך סדר והצורה הנגררת יוצרת שבירה של הגריד(שתי וערב).
+  המושג מיקרו-אינטראקציות קצת סובל משימוש יתר, אבל אני חושב שאחת הדוגמאות הטובות ביותר <img class="alignright size-full wp-image-1543" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/draganim.png" alt="draganim" width="343" height="244" />למושג הזה היא בפרט קטן כמו חווית הגרירה של המשימות בתוך טרלו. זה בעצם חלק ממקרה השימוש הנפוץ ביותר. היה אפשר להשתגע ולהוסיף הרבה רעש וצלצולים לתהליך הזה אבל מה שאהבתי כאן הוא דווקא הפשטות. ההבדל הגדול כאן הוא הטייה אלכסונית של המשימה בזמן הגרירה. כן כן זה כל העניין. נסו בעצמכם ותבינו שזה מעצים את החוויה בצורה רבה, בין השאר כי המח שלנו אוהב להכניס צורות לתוך סדר והצורה הנגררת יוצרת שבירה של הגריד(שתי וערב).
 </p>
 
 <h2 dir="rtl">
@@ -73,7 +73,7 @@ permalink: nicetohave.html
 </h2>
 
 <p dir="rtl">
-  <a href="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/07/Screenshot_4.png"><img class="alignright fancy size-medium" src="https://res.cloudinary.com/aniboaz/image/upload/v1605297349/Blog/Screenshot_4.png" /></a>כמעט לא משנה מה המוצר שלך, אני יכול להמר שיש לך שורת חיפוש, כפיצ&#8217;ר מרכזי. הפעולה של חיפוש הפכה כל כך שגורה (גוגל) בחיים שלנו שהמשתמש מצפה לתוצאות קלות וממוקדות בכל מקום.
+  <a href="https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/Screenshot_4.png"><img class="alignright fancy size-medium" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto/Blog/Screenshot_4.png" /></a>כמעט לא משנה מה המוצר שלך, אני יכול להמר שיש לך שורת חיפוש, כפיצ&#8217;ר מרכזי. הפעולה של חיפוש הפכה כל כך שגורה (גוגל) בחיים שלנו שהמשתמש מצפה לתוצאות קלות וממוקדות בכל מקום.
 </p>
 
 <p dir="rtl">
