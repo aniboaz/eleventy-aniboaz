@@ -1,7 +1,7 @@
 ---
 title: How I stopped worrying and learned to animate SVG
 author: Boaz Lederer
-metaDescription: So you want to create animated icons for your site?
+description: So you want to create animated icons for your site?
 summary: So you want to create animated icons for your site?
 date: '2017-03-16T06:32:00.543Z'
 categories: ["code"]

@@ -1,9 +1,7 @@
 ---
 title: 'Game Of Clones: The design tool battle'
 author: Boaz Lederer
-description:
-  I wrote a while back about the prototyping wars. now that 2017 is coming to an
-  end, there is a continuing boom of products for designing…
+description: I wrote a while back about the prototyping wars. now that 2017 is coming to an end, there is a continuing boom of products for designing…
 date: '2017-12-27T20:46:02.411Z'
 cover: https://res.cloudinary.com/aniboaz/image/upload/f_auto/Blog/1_ns5nbrlR0UAP-DY7vOR_SA.jpg
 categories: []

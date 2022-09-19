@@ -23,6 +23,7 @@ tags:
   - עיצוב ממשק משתמש
   - פלאגינים
 permalink: sketch-plugins.html
+description: לפני כמה חודשים סוף סוף עשיתי את המעבר המיוחל לסקצ׳. וכמובן הופתעתי לטובה (וחיי השתנו וראיתי את האור, בלא בלא).
 ---
 <p dir="rtl">
   שגיא היה <a href="https://www.pixelperfect.co.il/tutorials/how-i-moved-to-sketch/">הראשון לזהות</a> את סקצ&#8217; כדבר הבא בתחום העיצוב לUI, ווב ולדיגיטל.
