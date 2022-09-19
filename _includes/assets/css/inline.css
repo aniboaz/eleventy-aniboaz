@@ -111,7 +111,6 @@ main > article :first-child {
 }
 
 pre {
-	font-size: 14px;
 	direction: ltr;
 	text-align: left;
 	white-space: pre;
@@ -125,6 +124,9 @@ pre {
 	hyphens: none;
 	padding: 1em;
 	margin: .5em 0;
+	color: var(--text-primary);
+    background: var(--secondary);
+    overflow: auto;
 }
 
 /* Header Logo (style as h2) */
