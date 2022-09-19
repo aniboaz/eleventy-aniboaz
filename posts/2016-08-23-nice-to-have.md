@@ -17,6 +17,7 @@ tags:
   - איפיון ממשק
   - עיצוב ממשק משתמש
 permalink: nicetohave.html
+description: בפוסט הזה אני סוקר את המיקרו-חוויות שהם כביכול “לא חובה” אבל הופכים את החוויה הכוללת בtrello להרבה יותר מתגמלת.
 ---
 &nbsp;
 
@@ -105,7 +106,7 @@ permalink: nicetohave.html
 </p>
 
 <p dir="rtl">
-  <img class="alignright fancysize-full wp-image-1575" src="http://www.aniboaz.co.il/Blog/wp-content/uploads/2016/08/trelloo4.png" alt="trelloo4" width="337" height="287" />בדוגמא הזו &#8211; בעת &#8220;הדבקה&#8221; של טקסט ממקור חיצוני לתוך &#8220;כרטיס&#8221; קופץ דיאלוג שמציע לחלק את הטקסט &#8211; לפי כמו השורות &#8211; למספר כרטיסיות. או במילה אחת &#8211; <strong>אוטומציה</strong>.
+  <img class="alignright fancysize-full wp-image-1575" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto/Blog/trelloo4.png" alt="trelloo4" width="337" height="287" />בדוגמא הזו &#8211; בעת &#8220;הדבקה&#8221; של טקסט ממקור חיצוני לתוך &#8220;כרטיס&#8221; קופץ דיאלוג שמציע לחלק את הטקסט &#8211; לפי כמו השורות &#8211; למספר כרטיסיות. או במילה אחת &#8211; <strong>אוטומציה</strong>.
 </p>
 
 <h2 dir="rtl">
@@ -113,11 +114,10 @@ permalink: nicetohave.html
 </h2>
 
 <p dir="rtl">
-  בגלל שאני מעצב, אני מאד ער לפרטים ויזואלים. טרלו, כאמור היא לא מלכת היופי של מערכות הניהול, אבל פיצ&#8217;ר אחד בה גרם לי לחיוך מפה לאוזן. בדוגמא הזאת פתרו בעיה נפוצה של פרגמנטציה של גדלים לקבצי תמונות מצורפים &#8211; זו בעיה מוכרת בצירוף קבצים. התמונה שהמשתמש יעלה צריכה להיות בגודל מסויים כדי ש&#8221;תראה יפה&#8221; במערכת. במקרה של טרלו היא מופיעה על גבי הכרטיס כרקע עליון. בפתרון של טרלו <strong>צבע דומיננטי</strong> מתוך התמונה משומש כצבע רקע במידה והפרופורציה של התמונה לא מתאימה לרוחב ממשק. התוצאות, גם אם לא תמיד מושלמות, הם עדינות הרבה יותר מהאלטרנטיבה של תמונה גזורה ושבורה &#8220;תקועה&#8221; באמצע החיים.<a href=""><img class="alignright fancyfancy" src="https://res.cloudinary.com/aniboaz/image/upload/q_auto,f_auto/Blog/trello-1.jpg" alt="trello" width="480" height="228" /></a>
-</p>
+  בגלל שאני מעצב, אני מאד ער לפרטים ויזואלים. טרלו, כאמור היא לא מלכת היופי של מערכות הניהול, אבל פיצ&#8217;ר אחד בה גרם לי לחיוך מפה לאוזן. בדוגמא הזאת פתרו בעיה נפוצה של פרגמנטציה של גדלים לקבצי תמונות מצורפים &#8211; זו בעיה מוכרת בצירוף קבצים. התמונה שהמשתמש יעלה צריכה להיות בגודל מסויים כדי ש&#8221;תראה יפה&#8221; במערכת. במקרה של טרלו היא מופיעה על גבי הכרטיס כרקע עליון. בפתרון של טרלו <strong>צבע דומיננטי</strong> מתוך התמונה משומש כצבע רקע במידה והפרופורציה של התמונה לא מתאימה לרוחב ממשק. התוצאות, גם אם לא תמיד מושלמות, הם עדינות הרבה יותר מהאלטרנטיבה של תמונה גזורה ושבורה &#8220;תקועה&#8221; באמצע החיים.
 
-<div id="attachment_1563" style="width: 490px" class="wp-caption alignright">
-  <a href="https://res.cloudinary.com/aniboaz/image/upload/v1605298188/Blog/trello-1.jpg"><img class="fancy size-thumbnail" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto/Blog/trello-1.jpg" alt="color theifing" width="480" height="116" /></a>
+<div>
+ <img class="fancy size-thumbnail" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto/Blog/trello-1.jpg" alt="color theifing" width="480" height="116" /></a>
   
   <p class="wp-caption-text">
     color theifing
@@ -129,7 +129,7 @@ permalink: nicetohave.html
 </h2>
 
 <div style="width: 230px" class="wp-caption alignright">
-  <img src="http://66.media.tumblr.com/ff2437a64a2d96c997b22bcebdf9cac0/tumblr_nankrxUoir1qea4hso1_1280.png" width="220" />
+  <img class="fancy alignleft" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto,q_auto/Blog/favico-littlebig.png" />
   
   <p class="wp-caption-text">
     favico תמונה מתוך <a href="http://littlebigdetails.com/" target="_blank">little big details</a>
@@ -137,7 +137,7 @@ permalink: nicetohave.html
 </div>
 
 <p dir="rtl">
-  טרלו, כמו הרבה אחרים חי בדפדפן. אבל איך זה מתקשר לחווית השימוש? למשל , טרלו מכיל בתוכו &#8220;לוחות&#8221; שונים (ללקוחות או פרוייקטים שונים). אם אני כמשתמש בוחר בכל שינוי של צבע רקע ללוח מסויים, כנראה אני רוצה להבדיל בין הלוחות השונים שלי. אז איך אפשר לעזור לי להבדיל ביינהם?  פתרון מקורי הוא שימוש בfavico של האפליקציה. כלומר האייקון הקטן שמופיע בשורת הכתובת בדפדפן (וחשוב מכך &#8211; בדפים השמורים) מקבלת את צבע הרקע של אותו לוח, יותר מזה &#8211;<img class="size-full wp-image-1577 alignleft" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto/Blog/ALERT.png" alt="ALERT" width="35" height="35" /> כמו בדוגמא הקטנה כאן &#8211; גם התראות מוצגות בfavico ככה שאוכל לקבל התראה גם אם אני במרחק של כמה &#8220;טאבים&#8221; בכרום&#8230;
+  טרלו, כמו הרבה אחרים חי בדפדפן. אבל איך זה מתקשר לחווית השימוש? למשל , טרלו מכיל בתוכו &#8220;לוחות&#8221; שונים (ללקוחות או פרוייקטים שונים). אם אני כמשתמש בוחר בכל שינוי של צבע רקע ללוח מסויים, כנראה אני רוצה להבדיל בין הלוחות השונים שלי. אז איך אפשר לעזור לי להבדיל ביינהם?  פתרון מקורי הוא שימוש בfavico של האפליקציה. כלומר האייקון הקטן שמופיע בשורת הכתובת בדפדפן (וחשוב מכך &#8211; בדפים השמורים) מקבלת את צבע הרקע של אותו לוח, יותר מזה &#8211;<img class="size-full fancy alignleft" src="https://res.cloudinary.com/aniboaz/image/upload/f_auto/Blog/ALERT.png" alt="ALERT" width="35" height="35" /> כמו בדוגמא הקטנה כאן &#8211; גם התראות מוצגות בfavico ככה שאוכל לקבל התראה גם אם אני במרחק של כמה &#8220;טאבים&#8221; בכרום&#8230;
 </p>
 
 <p dir="rtl">
