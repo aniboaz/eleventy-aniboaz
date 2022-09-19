@@ -1,6 +1,6 @@
 ---
 title: The romance of Sci-fi and graphic design
-description: >-
+metaDescription: >-
   I have always hated unrealistic sci-fi movies or TV shows. I hated to see
   lights that blinked for no reason or a CG effect that was clearly…
 date: '2016-05-07T16:28:18.000Z'

@@ -15,7 +15,7 @@ tags:
   - Ux
   - אפיון ממשק משתמש
   - עברית
-cover: https://res.cloudinary.com/aniboaz/image/upload/v1653129085/Blog/picasso-no-banksy.jpg
+cover: https://res.cloudinary.com/aniboaz/image/upload/f_auto/Blog/picasso-no-banksy.jpg
 type: post
 permalink: coverflow.html
 description:  בנקסי בפרפרזה למשפט המפורסם של פיקסו האמן הרע מחקה, האמן הדגול גונב.
@@ -24,7 +24,7 @@ description:  בנקסי בפרפרזה למשפט המפורסם של פיקס�
   אמרו את זה קודם, לפניי
 </h2>
 
-![The Bad artist imitate, the great artist steal](https://res.cloudinary.com/aniboaz/image/upload/q_auto/Blog/browsing-records-at-origami-vinyl-los-angeles.jpg)
+![The Bad artist imitate, the great artist steal]( https://res.cloudinary.com/aniboaz/image/upload/f_auto/Blog/picasso-no-banksy.jpg)
 
   <p class="wp-caption-text">
     בנקסי בפרפרזה למשפט המפורסם של פיקסו :&#8221;האמן הרע מחקה, האמן הדגול &#8211; גונב.&#8221;
