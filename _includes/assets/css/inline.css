@@ -87,9 +87,11 @@ img {
 	height: auto;
 }
 img.alignright {
-    float: right;
+    float: right;margin: 1rem;
 }
-img.alignleft{float:left;}
+}
+img.alignleft{float:left;margin: 1rem;
+}}
 
 header,
 footer {

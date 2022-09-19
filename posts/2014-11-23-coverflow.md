@@ -18,6 +18,7 @@ tags:
 cover: https://res.cloudinary.com/aniboaz/image/upload/v1653129085/Blog/picasso-no-banksy.jpg
 type: post
 permalink: coverflow.html
+description:  בנקסי בפרפרזה למשפט המפורסם של פיקסו האמן הרע מחקה, האמן הדגול גונב.
 ---
 <h2 dir="rtl" style="text-align: right;">
   אמרו את זה קודם, לפניי
