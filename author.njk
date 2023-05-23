@@ -12,7 +12,7 @@ renderData:
   metaDescription: "An archive of all posts by the author: {{ author }}."
 ---
 
-<h1>{{ renderData.title | safe }}</h1>
+<h1 class="pad">{{ renderData.title | safe }}</h1>
 
 <section>
 	{% for post in collections.authors[author] | reverse %}
@@ -33,7 +33,7 @@ renderData:
 			{% endif %}
 			<p>
 				<time datetime="{{ post.date | machineDate }}">
-					<small>{{ post.date | readableDate }} by <img src="https://res.cloudinary.com/aniboaz/image/upload/w_64,h_64,g_south,b_orangered,dpr_2.0,f_auto/bgb.png" style="border-radius:80px;" width="48px"><a href="/authors/{{ post.author | slug }}/">{{ post.author }}</a></small>
+					<small>{{ post.date | readableDate }} by <img src="https://res.cloudinary.com/aniboaz/image/upload/w_64,h_64,g_south,b_orangered,dpr_2.0,f_auto/bgb.png" style="border-radius:80px;margin-right:2px;margin-left:8px" width="32px"><a href="/authors/{{ post.author | slug }}/">{{ post.author }}</a></small>
 				</time>
 			</p>
 			{% if post.tags %}

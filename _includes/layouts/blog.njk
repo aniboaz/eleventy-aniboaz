@@ -3,9 +3,11 @@ layout: layouts/base.njk
 section: blog
 permalink: /blog/index.html
 ---
-<h1>{{ title }}</h1>
+<h1 class="pad">{{ title }}</h1>
 
 {{ layoutContent | safe }}
 
 {% set postslist = collections.post %}
 {% include "components/postslist.njk" %}
+<style scoped>
+h1 {padding-left: 1.2rem;}</style>

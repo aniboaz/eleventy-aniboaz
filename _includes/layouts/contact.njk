@@ -2,10 +2,20 @@
 layout: layouts/base.njk
 section: contact
 ---
-<section class="about">
+<section class="container">
 <h1>{{ title }}</h1>
 
 {{ layoutContent | safe }}
 
 {% include "components/form.njk" %}
 </section>
+<style scoped>.container{
+  padding:2rem
+    }
+
+    @media screen and (max-width: 800px) {
+  form.two-col {
+    max-width:100%;
+  }
+}
+  </style>
